@@ -1,0 +1,138 @@
+{
+  "id": "lesson-09-present-tense",
+  "title": "Present Tense",
+  "icon": "🟢",
+  "xpReward": 30,
+  "description": "Master the two key present patterns: 'is/am/are' and the continuous '-raha/rahi hoon'.",
+  "culturalNote": "In Delhi Hindi, people constantly mix tenses in a single sentence — 'Main ja rahi hoon, tum aao' (I'm going, you come). Understanding present tense forms lets you follow these fast conversations and jump in naturally.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-901",
+      "hindi": "Hoon",
+      "english": "I am",
+      "spanish": "Soy / Estoy (yo)",
+      "note": "'Hoon' = I am. 'Main theek hoon' = I'm fine. 'Main yahan hoon' = I'm here. Always pairs with 'main' (I). This is the first-person singular form of 'hona' (to be)."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-902",
+      "hindi": "Hai",
+      "english": "Is / He is / She is / It is",
+      "spanish": "Es / Está (él/ella/ello)",
+      "note": "'Hai' = is (third person singular). 'Woh theek hai' = she/he is fine. 'Khana taiyaar hai' = food is ready. 'Kya yeh sahi hai?' = is this correct? The most used word in Hindi conversations."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-903",
+      "hindi": "Hain",
+      "english": "Are (plural / formal)",
+      "spanish": "Son / Están (ustedes/ellos)",
+      "note": "'Hain' = are (for plural or formal). 'Aap kaise hain?' = how are you (formal)? 'Woh log theek hain' = those people are fine. Also used formally to a single person: 'Aap bahut smart hain.'"
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-901",
+      "prompt": "Your friend asks 'Kya tum theek ___?' What fills the blank when talking to one friend?",
+      "correctAnswer": "ho",
+      "distractors": ["hoon", "hai", "hain"],
+      "hint": "'Ho' = you are (informal singular)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-904",
+      "hindi": "Ja rahi hoon",
+      "english": "I am going (feminine)",
+      "spanish": "Estoy yendo / Me voy",
+      "note": "Continuous tense: verb root + rahi (fem) + hoon. Masculine: 'ja raha hoon'. 'Main office ja rahi hoon' = I'm going to the office. 'Kahan ja rahi ho?' = where are you going? Essential pattern — learn it cold."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-905",
+      "hindi": "Kha rahi hoon",
+      "english": "I am eating (feminine)",
+      "spanish": "Estoy comiendo",
+      "note": "'Kha rahi hoon' = I'm eating right now. 'Kya kha rahi ho?' = what are you eating? Masculine: 'kha raha hoon'. Any verb: replace 'kha' with verb root + rahi/raha + hoon/hai."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-906",
+      "hindi": "Dekh rahi hoon",
+      "english": "I am watching / looking (feminine)",
+      "spanish": "Estoy mirando / viendo",
+      "note": "'Dekh rahi hoon' = I'm watching/looking. 'Main Netflix dekh rahi hoon' = I'm watching Netflix. 'Kya dekh rahi ho?' = what are you watching? 'Dekho' = look (command)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-901",
+      "sentence": "Main abhi gym _____. Baad mein milte hain.",
+      "sentenceEnglish": "I'm going to the gym right now. Let's meet later.",
+      "answer": "ja rahi hoon",
+      "hint": "I am going — feminine continuous",
+      "acceptedAlternatives": ["ja rahi hoon", "Ja rahi hoon"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-907",
+      "hindi": "Bol rahi hoon",
+      "english": "I am saying / speaking (feminine)",
+      "spanish": "Estoy diciendo / hablando",
+      "note": "'Main sach bol rahi hoon' = I'm telling the truth. 'Woh kya bol rahi hai?' = what is she saying? 'Bolte bolte' = while saying/talking. Pair with 'sach' (truth) or 'jhooth' (lie)."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-908",
+      "hindi": "Soch rahi hoon",
+      "english": "I am thinking (feminine)",
+      "spanish": "Estoy pensando",
+      "note": "'Main soch rahi hoon' = I'm thinking. 'Kya soch rahi ho?' = what are you thinking? 'Sochne do' = let me think. 'Bahut soch rahi hoon aaj kal' = I've been thinking a lot these days."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-902",
+      "prompt": "You want to say 'She is working right now.' Which is correct?",
+      "correctAnswer": "Woh kaam kar rahi hai",
+      "distractors": ["Woh kaam kar rahi hoon", "Woh kaam kar raha hai", "Woh kaam karti hai"],
+      "hint": "She = woh, feminine continuous = rahi, she is = hai"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-901",
+      "instruction": "Match the subject to its 'to be' form",
+      "pairs": [
+        { "hindi": "Main (I)", "english": "hoon" },
+        { "hindi": "Woh (he/she)", "english": "hai" },
+        { "hindi": "Aap (you-formal)", "english": "hain" },
+        { "hindi": "Tum (you-informal)", "english": "ho" }
+      ]
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-902",
+      "sentence": "Kya tum meri baat sun _____?",
+      "sentenceEnglish": "Are you listening to me?",
+      "answer": "rahi ho",
+      "hint": "Continuous 'are listening' — feminine, informal 'you'",
+      "acceptedAlternatives": ["rahi ho", "Rahi ho"]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-903",
+      "prompt": "'I'm not feeling well right now.' What's the most natural way to say this?",
+      "correctAnswer": "Main theek nahi hoon",
+      "distractors": ["Main theek nahi hai", "Main theek nahi hain", "Main theek nahi ho"],
+      "hint": "First person = hoon"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-902",
+      "instruction": "Match the continuous phrase",
+      "pairs": [
+        { "hindi": "Ja rahi hoon", "english": "I'm going (fem)" },
+        { "hindi": "Kha rahi hoon", "english": "I'm eating (fem)" },
+        { "hindi": "Soch rahi hoon", "english": "I'm thinking (fem)" },
+        { "hindi": "Bol rahi hoon", "english": "I'm saying (fem)" }
+      ]
+    }
+  ]
+}

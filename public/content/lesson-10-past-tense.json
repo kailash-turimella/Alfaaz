@@ -1,0 +1,127 @@
+{
+  "id": "lesson-10-past-tense",
+  "title": "Past Tense",
+  "icon": "⏮️",
+  "xpReward": 35,
+  "description": "Talk about what happened — with the correct feminine endings that mark you as fluent.",
+  "culturalNote": "Hindi past tense agrees with gender AND sometimes with the object, not just the subject. As a woman, you'll often say 'gayi' where a man says 'gaya'. Getting this right is a huge marker of fluency — Delhi people notice immediately.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-1001",
+      "hindi": "Gayi",
+      "english": "Went (feminine)",
+      "spanish": "Fui / Fue (femenino)",
+      "note": "Feminine past of 'jaana' (to go). 'Main kal market gayi' = I went to the market yesterday. Masculine: 'gaya'. 'Woh kahan gayi?' = where did she go? Don't say 'gaya' — that's the masculine form."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1002",
+      "hindi": "Aayi",
+      "english": "Came (feminine)",
+      "spanish": "Vine / Llegué (femenino)",
+      "note": "Feminine past of 'aana' (to come). 'Main kal aayi' = I came yesterday. 'Woh aayi' = she came. Masculine: 'aaya'. 'Kab aayi tum?' = when did you come? Very common — 'aayi kya?' = did you arrive?"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1003",
+      "hindi": "Kiya",
+      "english": "Did (gender-neutral for transitive verbs)",
+      "spanish": "Hice / Hizo",
+      "note": "'Kiya' = did. 'Maine kiya' = I did it. 'Tune kya kiya?' = what did you do? For transitive verbs, past tense agrees with the object, not subject — so women also say 'kiya' (not 'kiyi'). This is a key grammar rule."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1001",
+      "prompt": "You went to a party last night. How do you tell your friend?",
+      "correctAnswer": "Main kal party gayi",
+      "distractors": ["Main kal party gaya", "Main kal party gayi hoon", "Main kal party jaa rahi thi"],
+      "hint": "Past tense, feminine = gayi"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1004",
+      "hindi": "Thi",
+      "english": "Was (feminine)",
+      "spanish": "Era / Estaba (femenino)",
+      "note": "Feminine past of 'hona' (to be). 'Main wahan thi' = I was there. 'Woh bohot khush thi' = she was very happy. Masculine: 'tha'. 'Kahan thi tum?' = where were you? Use for describing past states."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1005",
+      "hindi": "Khaya",
+      "english": "Ate (transitive — same for all genders)",
+      "spanish": "Comí / Comió",
+      "note": "'Maine khaya' = I ate. 'Tune kya khaya?' = what did you eat? Agrees with food (object), not eater (subject) — so 'maine pizza khaya' (pizza is masculine) but 'maine roti khayi' (roti is feminine). Start with just 'khaya' for now."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1006",
+      "hindi": "Soyi",
+      "english": "Slept (feminine)",
+      "spanish": "Dormí (femenino)",
+      "note": "Feminine past of 'sona' (to sleep). 'Main raat ko der se soyi' = I slept late last night. 'Kab soyi thi?' = when did you go to sleep? Masculine: 'soya'. 'Der se soyi kyun?' = why did you sleep late?"
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1001",
+      "sentence": "Kal main bohot thak _____, isliye jaldi so gayi.",
+      "sentenceEnglish": "Yesterday I was very tired, so I went to sleep early.",
+      "answer": "gayi thi",
+      "hint": "Past continuous 'had gone/was' — feminine",
+      "acceptedAlternatives": ["gayi thi", "Gayi thi"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1007",
+      "hindi": "Dekha",
+      "english": "Saw / Watched (transitive)",
+      "spanish": "Vi / Miré",
+      "note": "'Maine dekha' = I saw. 'Tune woh movie dekhi?' = did you watch that movie? (Here 'movie' is feminine so it becomes 'dekhi'). In casual speech, people often just say 'dekha' — it's understood. 'Dekha nahi' = I didn't see."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1008",
+      "hindi": "Baat ki",
+      "english": "Talked / Spoke",
+      "spanish": "Hablé / Habló",
+      "note": "'Maine usse baat ki' = I talked to him/her. 'Tune mujhse baat kyun nahi ki?' = why didn't you talk to me? 'Baat karna' = to talk. 'Ki' is feminine (baat is feminine) — so this stays 'ki' regardless of who spoke."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1002",
+      "prompt": "You want to say 'She was not at home.' Which is correct?",
+      "correctAnswer": "Woh ghar par nahi thi",
+      "distractors": ["Woh ghar par nahi tha", "Woh ghar par nahi thi hoon", "Woh ghar par nahi hai thi"],
+      "hint": "She (feminine) was = thi"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-1001",
+      "instruction": "Match the verb to its feminine past form",
+      "pairs": [
+        { "hindi": "Jaana (to go)", "english": "Gayi" },
+        { "hindi": "Aana (to come)", "english": "Aayi" },
+        { "hindi": "Hona (to be)", "english": "Thi" },
+        { "hindi": "Sona (to sleep)", "english": "Soyi" }
+      ]
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1002",
+      "sentence": "Maine kal usse call _____ lekin usne nahi uthaya.",
+      "sentenceEnglish": "I called her yesterday but she didn't pick up.",
+      "answer": "kiya",
+      "hint": "'Kiya' = did (transitive verbs use kiya regardless of speaker's gender)",
+      "acceptedAlternatives": ["kiya", "Kiya"]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1003",
+      "prompt": "Which sentence means 'I went to the office and came back late'?",
+      "correctAnswer": "Main office gayi aur der se aayi",
+      "distractors": ["Main office gaya aur der se aayi", "Main office gayi aur der se aaya", "Main office gayi aur der se aaye"],
+      "hint": "Both verbs need feminine forms: gayi and aayi"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "lesson-05-emotions",
+  "title": "Feelings & Emotions",
+  "icon": "❤️",
+  "xpReward": 30,
+  "description": "Express how you feel naturally — with the right feminine verb endings.",
+  "culturalNote": "Hindi verbs change based on the speaker's gender. As a woman, you'll use -gayi (not -gaya), -rahi hoon (not -raha hoon), -hoon (same for both). This lesson drills the feminine forms so they become automatic for you.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-501",
+      "hindi": "Thak gayi",
+      "english": "I got tired / I'm worn out (feminine)",
+      "spanish": "Me cansé / Estoy agotada",
+      "note": "Feminine: 'thak gayi'. Masculine: 'thak gaya'. 'Bahut thak gayi yaar' = I'm so tired, man. 'Thak gayi hoon' = I am tired (ongoing state). Very commonly used."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-502",
+      "hindi": "Bura laga",
+      "english": "It felt bad / It hurt (emotionally)",
+      "spanish": "Me dolió / Me sentí mal",
+      "note": "'Bura laga' = it felt bad (about a situation). 'Mujhe bura laga' = I felt bad. 'Usse bura lagega' = it will make her feel bad. Gender-neutral — 'laga' doesn't change for speaker's gender."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-503",
+      "hindi": "Acha laga",
+      "english": "It felt good / I liked it",
+      "spanish": "Me gustó / Me sentí bien",
+      "note": "The positive version. 'Bahut acha laga' = it felt really good. 'Mujhe acha laga ki tum aayi' = I'm glad you came. Versatile — use after any positive experience."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-501",
+      "prompt": "After a great dinner with friends, you want to say 'I really enjoyed it / it felt great'. What do you say?",
+      "correctAnswer": "Bahut acha laga",
+      "distractors": ["Bahut bura laga", "Bahut thak gayi", "Bore ho gayi"],
+      "hint": "'Laga' = it felt — pair it with 'acha'"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-504",
+      "hindi": "Gussa aa raha hai",
+      "english": "I'm getting angry / I'm getting irritated",
+      "spanish": "Me está dando rabia / Me estoy enojando",
+      "note": "Literally 'anger is coming'. 'Gussa' = anger. 'Mujhe gussa aa raha hai' = anger is coming to me = I'm getting angry. 'Gussa mat ho' = don't get angry. 'Bahut gussa aaya' = I got very angry."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-505",
+      "hindi": "Dar lag raha hai",
+      "english": "I'm scared / I'm feeling afraid",
+      "spanish": "Me da miedo / Estoy asustada",
+      "note": "Literally 'fear is feeling'. 'Dar' = fear. 'Mujhe dar lag raha hai' = I'm feeling scared. 'Darr mat' = don't be afraid. 'Koi dar nahi' = nothing to be afraid of."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-502",
+      "prompt": "You're nervous before a big presentation. How do you express 'I'm scared'?",
+      "correctAnswer": "Dar lag raha hai",
+      "distractors": ["Gussa aa raha hai", "Thak gayi hoon", "Maza aa raha hai"],
+      "hint": "'Dar' = fear"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-506",
+      "hindi": "Maza aaya",
+      "english": "It was fun / I had a blast",
+      "spanish": "Me divertí / Qué divertido",
+      "note": "'Maza' = fun/pleasure. 'Bahut maza aaya' = it was so much fun. 'Maza aa raha hai' = I'm having fun right now. 'Maza nahi aaya' = it wasn't fun. Essential phrase for after any outing."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-507",
+      "hindi": "Bore ho gayi",
+      "english": "I got bored (feminine)",
+      "spanish": "Me aburrí",
+      "note": "Feminine: 'bore ho gayi'. Masculine: 'bore ho gaya'. 'Bore ho rahi hoon' = I'm getting bored (ongoing). Code-switch with English 'bore' + Hindi grammar — perfectly natural in Delhi."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-501",
+      "sentence": "Yaar woh movie itni slow thi, main _____ completely.",
+      "sentenceEnglish": "Man that movie was so slow, I _____ completely.",
+      "answer": "bore ho gayi",
+      "hint": "I got bored — feminine form",
+      "acceptedAlternatives": ["bore ho gayi", "Bore ho gayi"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-508",
+      "hindi": "Ro rahi hoon",
+      "english": "I'm crying (feminine, present)",
+      "spanish": "Estoy llorando",
+      "note": "Feminine continuous: 'ro rahi hoon'. Masculine: 'ro raha hoon'. 'Kyu ro rahi ho?' = why are you crying? 'Rona mat' = don't cry. 'Rone ka mann hai' = I feel like crying."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-509",
+      "hindi": "Khush hoon",
+      "english": "I'm happy",
+      "spanish": "Estoy feliz / Estoy contenta",
+      "note": "'Khush' = happy. 'Hoon' = I am. 'Bahut khush hoon' = I'm very happy. 'Khush raho' = stay happy (blessing/farewell). 'Tujhe khush dekhke khushi hoti hai' = seeing you happy makes me happy."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-510",
+      "hindi": "Pareshaan hoon",
+      "english": "I'm worried / I'm troubled / I'm stressed",
+      "spanish": "Estoy preocupada / Estoy angustiada",
+      "note": "'Pareshaan' = worried/troubled. 'Mat ho pareshaan' = don't worry. 'Woh mujhe pareshaan karta hai' = he troubles/bothers me. 'Bahut pareshaan hoon' = I'm really stressed out."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-503",
+      "prompt": "You're really worried about an exam tomorrow. How do you express this?",
+      "correctAnswer": "Bahut pareshaan hoon",
+      "distractors": ["Bahut khush hoon", "Bahut maza aa raha hai", "Bilkul theek hoon"],
+      "hint": "'Pareshaan' = worried/stressed"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-511",
+      "hindi": "Mann nahi kar raha",
+      "english": "I don't feel like it / My heart isn't in it",
+      "spanish": "No tengo ganas / No me apetece",
+      "note": "'Mann' = heart. Literally 'heart isn't doing'. This is how you say 'I don't feel like it' in Hindi. 'Mann nahi kar raha kuch karne ka' = I don't feel like doing anything. Extremely common."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-502",
+      "sentence": "Aaj khaana banana _____. Pizza order karte hain.",
+      "sentenceEnglish": "I don't feel like cooking today. Let's order pizza.",
+      "answer": "mann nahi kar raha",
+      "hint": "I don't feel like it",
+      "acceptedAlternatives": ["mann nahi kar raha", "Mann nahi kar raha"]
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-501",
+      "instruction": "Match the feeling to its Hindi phrase",
+      "pairs": [
+        { "hindi": "Khush hoon", "english": "I'm happy" },
+        { "hindi": "Thak gayi", "english": "I got tired (fem)" },
+        { "hindi": "Pareshaan hoon", "english": "I'm worried" },
+        { "hindi": "Maza aaya", "english": "It was fun" }
+      ]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-512",
+      "hindi": "Accha feel nahi ho raha",
+      "english": "I'm not feeling well / I don't feel good",
+      "spanish": "No me siento bien",
+      "note": "Code-switched with English 'feel' + Hindi grammar. Completely natural in Delhi. Can mean physically unwell or emotionally not okay. 'Kya hua? Theek nahi feel ho raha?' = what happened, are you not feeling okay?"
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-504",
+      "prompt": "After a long hard week, you text your friend: 'I'm so tired and worn out.' What's the most natural Hindi phrase?",
+      "correctAnswer": "Bahut thak gayi yaar",
+      "distractors": ["Bahut maza aaya yaar", "Bahut khush hoon yaar", "Dil kar raha hai yaar"],
+      "hint": "Tired — feminine past tense"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-502",
+      "instruction": "Match the emotion phrase",
+      "pairs": [
+        { "hindi": "Gussa aa raha hai", "english": "I'm getting angry" },
+        { "hindi": "Dar lag raha hai", "english": "I'm feeling scared" },
+        { "hindi": "Ro rahi hoon", "english": "I'm crying (fem)" },
+        { "hindi": "Dil nahi kar raha", "english": "I don't feel like it" }
+      ]
+    }
+  ]
+}

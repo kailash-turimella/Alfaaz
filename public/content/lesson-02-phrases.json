@@ -1,0 +1,191 @@
+{
+  "id": "lesson-02-phrases",
+  "title": "Essential Phrases",
+  "icon": "💬",
+  "xpReward": 25,
+  "description": "Complete standalone phrases that drop naturally into any conversation.",
+  "culturalNote": "These phrases are the backbone of Delhi conversation. Memorise them as whole chunks — don't translate word by word. Notice how many use informal contractions that textbooks would never teach you.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-201",
+      "hindi": "Theek hai yaar",
+      "english": "It's fine, dude / Okay, man",
+      "spanish": "Está bien, tío",
+      "note": "The most versatile sign-off in Delhi. Works as agreement, resignation, closing a topic, or ending a call. Tone carries everything: enthusiastic vs flat 'theek hai yaar' are very different."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-202",
+      "hindi": "Pata nahi yaar",
+      "english": "I have no idea, man",
+      "spanish": "No sé, tío / Ni idea",
+      "note": "Softer and more relatable than just 'pata nahi'. The 'yaar' adds warmth and makes it sound less dismissive. Perfect response when you're genuinely clueless."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-203",
+      "hindi": "Kya baat hai!",
+      "english": "Wow! / What's up? / That's amazing!",
+      "spanish": "¡Qué cosa! / ¡Qué tal! / ¡Qué genial!",
+      "note": "'Kya baat hai!' with excitement = wow, amazing! 'Kya baat hai?' as a question = what's the matter? / what's going on? Same phrase, very different tone."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-201",
+      "prompt": "Your friend shows you their new apartment and it's stunning. What do you say?",
+      "correctAnswer": "Kya baat hai!",
+      "distractors": ["Pata nahi yaar", "Chal, bye!", "Bas kar!"],
+      "hint": "An expression of genuine wow/admiration"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-204",
+      "hindi": "Sach mein?",
+      "english": "Really? / For real? / Seriously?",
+      "spanish": "¿En serio? / ¿De verdad?",
+      "note": "'Sach' means truth/real. 'Sach mein?' = is that actually true? Tone can go from genuinely curious to sarcastic depending on delivery. 'Sach mein yaar' as a statement = I mean it, seriously."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-205",
+      "hindi": "Koi baat nahi",
+      "english": "No worries / It's okay / Never mind",
+      "spanish": "No pasa nada / No importa",
+      "note": "The go-to phrase when someone apologises or something goes wrong. Warm and reassuring. Shortened to 'koi na' in very casual speech — same meaning."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-201",
+      "sentence": "Sorry yaar, late ho gayi. — _____, chal aaja.",
+      "sentenceEnglish": "Sorry man, I got late. — _____, just come.",
+      "answer": "Koi baat nahi",
+      "hint": "'No worries' — reassuring response to an apology",
+      "acceptedAlternatives": ["koi baat nahi", "Koi Baat Nahi", "koi na"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-206",
+      "hindi": "Chal milte hain",
+      "english": "Let's meet / We'll meet / Catch up soon",
+      "spanish": "Nos vemos / Quedamos",
+      "note": "Used both as a concrete plan and a casual 'we should hang sometime'. 'Chal milte hain kal?' = let's meet tomorrow? It's warmer than just 'milte hain' because of the 'chal'."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-207",
+      "hindi": "Bahut acha laga",
+      "english": "It felt really good / I really enjoyed it",
+      "spanish": "Me gustó mucho / Lo pasé muy bien",
+      "note": "'Laga' = it felt/seemed. 'Bahut acha laga' is the go-to after a nice dinner, film, or event. Note: 'laga' is gender-neutral here — same for both speakers."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-208",
+      "hindi": "Miss kar rahi hoon",
+      "english": "I'm missing (you/it)",
+      "spanish": "Te extraño / Lo extraño",
+      "note": "Feminine form: 'kar rahi hoon'. Masculine: 'kar raha hoon'. This is a perfect example of code-switching — 'miss karna' uses English 'miss' + Hindi grammar. Completely natural in Delhi."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-202",
+      "prompt": "You're a woman telling your friend you miss her. What do you say?",
+      "correctAnswer": "Miss kar rahi hoon",
+      "distractors": ["Miss kar raha hoon", "Miss kar rahi hai", "Miss karna hai"],
+      "hint": "You are female — look for the feminine -rahi hoon ending"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-209",
+      "hindi": "Bore ho gayi",
+      "english": "I got bored (feminine)",
+      "spanish": "Me aburrí",
+      "note": "Feminine -gayi ending. Masculine would be 'bore ho gaya'. 'Ho gayi/gaya' = it happened / I became. 'Bore ho gayi yaar' = I'm so bored, man. Very useful phrase."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-210",
+      "hindi": "Kitna hua?",
+      "english": "How much did it come to? / What's the total?",
+      "spanish": "¿Cuánto fue? / ¿A cuánto sale?",
+      "note": "Use this at restaurants, shops, or when splitting a bill. 'Hua' = became/happened — so 'kitna hua?' literally = 'how much did it become?' Very natural usage."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-211",
+      "hindi": "Bahut mehenga hai",
+      "english": "It's very expensive",
+      "spanish": "Es muy caro",
+      "note": "'Mehenga' = expensive. 'Bahut mehenga hai yaar' = it's way too expensive, man. Useful in markets, restaurants, autos. Follow it with 'thoda kam karo na' (lesson 6) to negotiate."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-203",
+      "prompt": "You're at a market and the price is way too high. What do you say?",
+      "correctAnswer": "Bahut mehenga hai",
+      "distractors": ["Bahut acha hai", "Bahut sasta hai", "Bahut laga hai"],
+      "hint": "'Mehenga' = expensive"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-212",
+      "hindi": "Kuch nahi",
+      "english": "Nothing / Not much",
+      "spanish": "Nada",
+      "note": "'Kuch nahi' answers 'kya hua?' (what happened?) or 'kya chal raha hai?' (what's going on?). Also used: 'kuch nahi yaar' = nothing much, man. 'Kuch nahi hota' = nothing will happen, it's fine."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-202",
+      "sentence": "Kya hua? — _____, sab theek hai.",
+      "sentenceEnglish": "What happened? — _____, everything's fine.",
+      "answer": "Kuch nahi",
+      "hint": "Nothing happened",
+      "acceptedAlternatives": ["kuch nahi"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-213",
+      "hindi": "Sun na",
+      "english": "Hey, listen / Listen up",
+      "spanish": "Oye / Escucha",
+      "note": "'Sun' = listen (imperative). 'Na' softens it. 'Sun na yaar' = hey man, listen. It's how you get someone's attention or preface something important. Not rude — warm and conversational."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-214",
+      "hindi": "Ek second",
+      "english": "One second / Just a moment",
+      "spanish": "Un segundo",
+      "note": "Completely code-switched — 'ek' is Hindi (one), 'second' is English. This is exactly how Delhi people speak. 'Ek second yaar' = hold on one second, man."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-215",
+      "hindi": "Mazak kar rahi hoon",
+      "english": "I'm joking / I'm kidding (feminine)",
+      "spanish": "Estoy bromeando",
+      "note": "Feminine: 'kar rahi hoon'. Masculine: 'kar raha hoon'. 'Mazak' = joke/jest. 'Mazak mat karo' = don't joke / stop kidding. 'Mazak tha' = it was a joke."
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-201",
+      "instruction": "Match the phrase to its meaning",
+      "pairs": [
+        { "hindi": "Sach mein?", "english": "Really? / For real?" },
+        { "hindi": "Koi baat nahi", "english": "No worries" },
+        { "hindi": "Kya baat hai!", "english": "Wow! Amazing!" },
+        { "hindi": "Chal milte hain", "english": "Let's meet" }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-204",
+      "prompt": "You want to get your friend's attention before saying something important. What do you say?",
+      "correctAnswer": "Sun na",
+      "distractors": ["Chal", "Bas", "Ek second"],
+      "hint": "'Sun' = listen"
+    }
+  ]
+}

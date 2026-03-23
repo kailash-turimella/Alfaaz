@@ -1,0 +1,345 @@
+{
+  "id": "lesson-08-conversations",
+  "title": "Full Conversations",
+  "icon": "🎭",
+  "xpReward": 50,
+  "description": "Complete back-and-forth conversations. You play one role — pick the right line and keep the flow going.",
+  "culturalNote": "Real Delhi conversations are fast, warm, and full of everything you've learned: fillers, code-switching, 'yaar', 'arre', 'na'. Don't aim for perfect grammar — aim for natural rhythm. If you hesitate less, you sound more fluent.",
+  "exercises": [
+    {
+      "type": "conversation",
+      "id": "conv-001",
+      "context": "You (B) are meeting your friend Priya (A) for chai. You haven't seen her in a while.",
+      "blankedSpeaker": "B",
+      "lines": [
+        {
+          "speaker": "A",
+          "hindi": "Arre yaar, kahan thi tu? Bahut dino baad dikh rahi hai!",
+          "english": "Oh man, where were you? Haven't seen you in so long!",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Yaar, bahut kaam tha. Ekdum busy rahi.",
+          "english": "Man, there was so much work. I was totally busy.",
+          "isBlanked": true,
+          "options": [
+            "Yaar, bahut kaam tha. Ekdum busy rahi.",
+            "Haan bilkul, maza aaya bahut.",
+            "Pata nahi, woh theek hai."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Acha! Toh ab kaisa chal raha hai sab?",
+          "english": "Oh right! So how's everything going now?",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Haan ab thoda better hai. Chal, chai peete hain na?",
+          "english": "Yeah it's a bit better now. Come on, let's have chai, right?",
+          "isBlanked": true,
+          "options": [
+            "Haan ab thoda better hai. Chal, chai peete hain na?",
+            "Nahi, mujhe jaana hai abhi.",
+            "Pata nahi yaar, dekho."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Bilkul yaar, chal! Maine order kar diya.",
+          "english": "Absolutely man, let's go! I've already ordered.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Arre, itni jaldi? Kya mangaya?",
+          "english": "Oh wow, so fast? What did you order?",
+          "isBlanked": true,
+          "options": [
+            "Arre, itni jaldi? Kya mangaya?",
+            "Theek hai, koi baat nahi.",
+            "Bahut der ho gayi already."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "id": "conv-002",
+      "context": "You (B) are on the phone with your friend Rahul (A). He's calling to make plans.",
+      "blankedSpeaker": "B",
+      "lines": [
+        {
+          "speaker": "A",
+          "hindi": "Haan bata.",
+          "english": "Yeah, tell me.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Arre Rahul! Kal free hai tu?",
+          "english": "Hey Rahul! Are you free tomorrow?",
+          "isBlanked": true,
+          "options": [
+            "Arre Rahul! Kal free hai tu?",
+            "Haan, sab theek hai.",
+            "Pata nahi, call karo baad mein."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Kal? Haan, shaam ko free hoon. Kya plan hai?",
+          "english": "Tomorrow? Yeah, I'm free in the evening. What's the plan?",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Woh naya restaurant khula hai na CP mein — chal wahan chalte hain?",
+          "english": "That new restaurant opened in CP, right — shall we go there?",
+          "isBlanked": true,
+          "options": [
+            "Woh naya restaurant khula hai na CP mein — chal wahan chalte hain?",
+            "Pata nahi, mujhe bhook nahi hai.",
+            "Aaj nahi yaar, bahut thak gayi."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Haan yaar, suna hai bahut acha hai! Kitne baje?",
+          "english": "Yes man, I've heard it's really good! What time?",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Saat baje? Theek hai?",
+          "english": "7 o'clock? Is that okay?",
+          "isBlanked": true,
+          "options": [
+            "Saat baje? Theek hai?",
+            "Jab bhi, koi fark nahi.",
+            "Bahut pehle hai yaar."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Bilkul! Chal, kal milte hain. Bye!",
+          "english": "Absolutely! Alright, see you tomorrow. Bye!",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Haan chal, bye!",
+          "english": "Yeah alright, bye!",
+          "isBlanked": true,
+          "options": [
+            "Haan chal, bye!",
+            "Okay, namaste.",
+            "Dekh lenge, chalo."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "id": "conv-003",
+      "context": "You (B) are at a dhaba ordering food. The waiter (A) comes to take your order.",
+      "blankedSpeaker": "B",
+      "lines": [
+        {
+          "speaker": "A",
+          "hindi": "Haan didi, kya loge?",
+          "english": "Yes sister, what will you have?",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Bhaiya, yahan kya acha hai? Kya recommend karoge?",
+          "english": "Brother, what's good here? What would you recommend?",
+          "isBlanked": true,
+          "options": [
+            "Bhaiya, yahan kya acha hai? Kya recommend karoge?",
+            "Mujhe kuch nahi chahiye.",
+            "Bill le aana pehle."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Didi, dal makhani bahut acha hai aur butter naan try karein.",
+          "english": "Sister, the dal makhani is very good and try the butter naan.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Theek hai, ek dal makhani aur do butter naan. Aur haan — teekha thoda kam karna.",
+          "english": "Okay, one dal makhani and two butter naan. And yes — make it a little less spicy.",
+          "isBlanked": true,
+          "options": [
+            "Theek hai, ek dal makhani aur do butter naan. Aur haan — teekha thoda kam karna.",
+            "Kuch nahi chahiye, thanks.",
+            "Sirf pani lao bhaiya."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Ji didi, aur kuch?",
+          "english": "Yes sister, anything else?",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Ek lassi bhi lao. Aur bhaiya, kitna time lagega?",
+          "english": "Bring one lassi too. And brother, how long will it take?",
+          "isBlanked": true,
+          "options": [
+            "Ek lassi bhi lao. Aur bhaiya, kitna time lagega?",
+            "Haan theek hai, chal bye.",
+            "Bahut mehenga hai yeh sab."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Bas 10 minute didi.",
+          "english": "Just 10 minutes, sister.",
+          "isBlanked": false
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "id": "conv-004",
+      "context": "You (B) are shopping for a kurta at Sarojini Nagar market. The shopkeeper (A) shows you something.",
+      "blankedSpeaker": "B",
+      "lines": [
+        {
+          "speaker": "A",
+          "hindi": "Didi, dekho yeh naya collection hai, bahut acha hai.",
+          "english": "Sister, look this is a new collection, it's very nice.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Haan acha hai. Yeh kitne ka hai?",
+          "english": "Yeah it's nice. How much is this?",
+          "isBlanked": true,
+          "options": [
+            "Haan acha hai. Yeh kitne ka hai?",
+            "Mujhe nahi chahiye kuch.",
+            "Bahut bura hai yeh."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Yeh paanch sau ka hai didi.",
+          "english": "This is 500 rupees, sister.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Arre yaar, paanch sau? Bahut mehenga hai. Thoda kam karo na.",
+          "english": "Oh man, 500? That's very expensive. Reduce it a little.",
+          "isBlanked": true,
+          "options": [
+            "Arre yaar, paanch sau? Bahut mehenga hai. Thoda kam karo na.",
+            "Haan theek hai, le leti hoon.",
+            "Pata nahi, soch ke batati hoon."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Didi, pakka price hai. Quality dekho.",
+          "english": "Sister, this is the fixed price. Look at the quality.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Chaar sau mein doge? Last price batao.",
+          "english": "Will you give it for 400? Tell me the last price.",
+          "isBlanked": true,
+          "options": [
+            "Chaar sau mein doge? Last price batao.",
+            "Theek hai, paanch sau le lo.",
+            "Nahi chahiye, thanks."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Chaar sau pachaas, bas. Final hai.",
+          "english": "Four fifty, that's it. Final.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Theek hai yaar, le leti hoon. Cash hoga.",
+          "english": "Okay fine, I'll take it. It'll be cash.",
+          "isBlanked": true,
+          "options": [
+            "Theek hai yaar, le leti hoon. Cash hoga.",
+            "Nahi, bahut mehenga hai abhi bhi.",
+            "Ek aur dikhao pehle."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "id": "conv-005",
+      "context": "You (B) are talking to your friend Sanya (A). She can tell something's wrong and asks how you are.",
+      "blankedSpeaker": "B",
+      "lines": [
+        {
+          "speaker": "A",
+          "hindi": "Yaar, sab theek? Kuch pareshaan lag rahi ho.",
+          "english": "Man, everything okay? You seem a bit worried.",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Haan yaar, bas thodi si thaki hoon. Kuch nahi.",
+          "english": "Yeah man, just a little tired. Nothing much.",
+          "isBlanked": true,
+          "options": [
+            "Haan yaar, bas thodi si thaki hoon. Kuch nahi.",
+            "Bilkul theek hoon, kya hua?",
+            "Bahut maza aa raha hai aaj."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Pakka? Bol na yaar, kya hua?",
+          "english": "Sure? Tell me man, what happened?",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Sach boluun? Kaam se bahut bore ho gayi hoon. Thoda break chahiye.",
+          "english": "Should I say the truth? I'm really bored of work. I need a little break.",
+          "isBlanked": true,
+          "options": [
+            "Sach boluun? Kaam se bahut bore ho gayi hoon. Thoda break chahiye.",
+            "Haan bilkul theek hoon, tension mat lo.",
+            "Pata nahi, dekh lenge baad mein."
+          ]
+        },
+        {
+          "speaker": "A",
+          "hindi": "Acha yaar, sahi bol rahi ho. Chal kal outing pe chalte hain, dono?",
+          "english": "Oh man, you're right. Come on, let's go out tomorrow, both of us?",
+          "isBlanked": false
+        },
+        {
+          "speaker": "B",
+          "hindi": "Arre haan yaar! Bahut acha lagega. Pakka chalte hain.",
+          "english": "Oh yes man! That'll feel so good. We're definitely going.",
+          "isBlanked": true,
+          "options": [
+            "Arre haan yaar! Bahut acha lagega. Pakka chalte hain.",
+            "Nahi yaar, dil nahi kar raha.",
+            "Pata nahi, dekho kal."
+          ]
+        }
+      ]
+    }
+  ]
+}

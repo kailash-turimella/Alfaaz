@@ -1,0 +1,178 @@
+{
+  "id": "lesson-04-fillers",
+  "title": "Filler Words",
+  "icon": "🗣️",
+  "xpReward": 30,
+  "description": "The glue words that make Hindi sound real. Textbooks ignore these — Delhi Hindi is built on them.",
+  "culturalNote": "Filler words are the difference between sounding robotic and sounding fluent. In Delhi, 'matlab', 'waise', 'toh', and 'na' are constant. Once you hear them, you can't unhear them. Don't be afraid to use them — overuse is fine when learning.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-401",
+      "hindi": "Matlab",
+      "english": "I mean / Like / That is / So",
+      "spanish": "O sea / Es decir / Tipo",
+      "note": "Used exactly like 'I mean' in English. 'Matlab woh aaya hi nahi' = I mean, he just didn't show up. 'Matlab kya?' = What does that mean? / What do you mean? Both literal and filler uses."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-402",
+      "hindi": "Waise",
+      "english": "By the way / Anyway / Like / Actually",
+      "spanish": "Por cierto / De todas formas / La verdad es que",
+      "note": "'Waise bhi' = anyway / besides / in any case. 'Waise' at sentence start = by the way. 'Waise toh' = otherwise though. Incredibly common in Delhi speech — listen for it everywhere."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-403",
+      "hindi": "Toh",
+      "english": "So / Then / Therefore",
+      "spanish": "Entonces / Pues",
+      "note": "'Toh' is the Hindi 'so' — connects thoughts. 'Woh nahi aaya toh hum chale gaye' = He didn't come, so we left. 'Toh phir?' = So then? / What happened after? Very frequent connector."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-404",
+      "hindi": "Na",
+      "english": "Right? / No? / Isn't it? (sentence ender)",
+      "spanish": "¿No? / ¿Verdad? / ¿O no?",
+      "note": "When 'na' ends a sentence, it's a softener or tag question. 'Acha hai na?' = it's nice, right? 'Aana hai na tujhe?' = you're coming, right? It invites agreement and softens requests enormously."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-401",
+      "prompt": "'Bahut acha tha na?' — what does this mean?",
+      "correctAnswer": "It was really good, right?",
+      "distractors": ["It was really good, no?", "It wasn't good at all", "Was it good?"],
+      "hint": "'Na' at the end = seeking agreement / confirmation"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-405",
+      "hindi": "Haan haan",
+      "english": "Yeah yeah (dismissive OR enthusiastic)",
+      "spanish": "Sí, sí",
+      "note": "Tone is everything: fast dismissive 'haan haan' = yeah yeah I know, stop. Warm enthusiastic 'haan haan!' = yes yes absolutely! The speed and energy completely change the meaning."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-402",
+      "prompt": "Someone is explaining something you already know and you want them to stop — you say 'haan haan' in what tone?",
+      "correctAnswer": "Fast and flat",
+      "distractors": ["Slow and warm", "Loud and excited", "Questioning rise"],
+      "hint": "You're cutting them off, not agreeing enthusiastically"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-406",
+      "hindi": "Toh phir",
+      "english": "So then / And then? / What happened next?",
+      "spanish": "Pues entonces / ¿Y luego?",
+      "note": "'Toh phir kya hua?' = So then what happened? Used to push a story forward or show you're engaged. 'Toh phir?' alone = so? / and then what? Good conversation signal."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-407",
+      "hindi": "Seedha baat karo",
+      "english": "Get to the point / Just say it directly",
+      "spanish": "Ve al grano / Habla claro",
+      "note": "'Seedha' = straight/direct. 'Seedha baat karo yaar' = just get to the point, man. Friendly frustration. You can also say 'seedha bol' = just say it straight."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-401",
+      "sentence": "Yaar, ghuma mat, _____.",
+      "sentenceEnglish": "Man, don't beat around the bush, _____.",
+      "answer": "seedha baat karo",
+      "hint": "Get to the point",
+      "acceptedAlternatives": ["seedha baat karo", "Seedha baat karo"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-408",
+      "hindi": "Bhi",
+      "english": "Also / Too / Even",
+      "spanish": "También / Incluso",
+      "note": "'Main bhi' = me too. 'Woh bhi nahi aaya' = he also didn't come. 'Waise bhi' = anyway/besides. 'Bhi' attaches to words to mean 'even this one too'. Very short but very useful."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-409",
+      "hindi": "Hi",
+      "english": "Only / Just / Itself (emphasis particle)",
+      "spanish": "Mismo / Justamente / Solo eso",
+      "note": "Not the English greeting! 'Woh hi nahi aaya' = he specifically didn't come (nobody else — HE didn't come). 'Yahi chahiye' = exactly this is what's needed. Adds emphasis and specificity."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-403",
+      "prompt": "'Yahi chahiye tha' — what does 'hi' do in this sentence?",
+      "correctAnswer": "Emphasises — this is EXACTLY what was needed",
+      "distractors": ["It's the English greeting", "It means 'also'", "It means 'not'"],
+      "hint": "'Hi' in Hindi = emphasis particle, not a greeting"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-410",
+      "hindi": "Kyunki",
+      "english": "Because",
+      "spanish": "Porque",
+      "note": "'Kyunki' = because (for giving a reason). 'Main nahi aayi kyunki mujhe kaam tha' = I didn't come because I had work. Often dropped in very casual speech when the reason is obvious."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-411",
+      "hindi": "Lekin",
+      "english": "But / However",
+      "spanish": "Pero / Sin embargo",
+      "note": "'Lekin' = but. 'Sab theek hai, lekin thaka hua hoon' = everything's fine, but I'm tired. In very casual speech, sometimes shortened to 'lik' or replaced with English 'but'."
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-401",
+      "instruction": "Match the filler word to its role",
+      "pairs": [
+        { "hindi": "Toh", "english": "So / Then" },
+        { "hindi": "Na", "english": "Right? (tag)" },
+        { "hindi": "Bhi", "english": "Also / Too" },
+        { "hindi": "Lekin", "english": "But" }
+      ]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-412",
+      "hindi": "Phir bhi",
+      "english": "Even so / Still / Nevertheless",
+      "spanish": "Aun así / De todas formas",
+      "note": "'Phir bhi' acknowledges something but overrides it. 'Bahut busy hoon, phir bhi aayi' = I'm very busy, but I came anyway. Shows effort, resilience, or contradiction."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-402",
+      "sentence": "Pata hai bahut kaam hai, _____ milne aana chahiye tha.",
+      "sentenceEnglish": "I know there's a lot of work, _____ you should have come to meet.",
+      "answer": "phir bhi",
+      "hint": "'Even so' / 'Still'",
+      "acceptedAlternatives": ["phir bhi", "Phir bhi"]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-404",
+      "prompt": "You're telling a story. Your friend is listening and wants to hear what happened next. What do they say?",
+      "correctAnswer": "Toh phir?",
+      "distractors": ["Haan haan", "Seedha baat karo", "Na na"],
+      "hint": "Pushing the story forward — 'so then?'"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-402",
+      "instruction": "Match the phrase to its function",
+      "pairs": [
+        { "hindi": "Matlab", "english": "I mean / In other words" },
+        { "hindi": "Waise bhi", "english": "Anyway / Besides" },
+        { "hindi": "Phir bhi", "english": "Even so / Still" },
+        { "hindi": "Kyunki", "english": "Because" }
+      ]
+    }
+  ]
+}

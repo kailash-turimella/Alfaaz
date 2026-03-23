@@ -1,0 +1,127 @@
+{
+  "id": "lesson-11-future-tense",
+  "title": "Future Tense",
+  "icon": "⏭️",
+  "xpReward": 35,
+  "description": "Make plans and talk about what will happen — with feminine -gi endings.",
+  "culturalNote": "Hindi future tense is one of the clearest gender markers. '-Gi' is feminine, '-ga' is masculine. 'Main jauungi' vs 'main jauunga' — one word tells people your gender. Delhi people use future tense constantly for plans: 'kal milenge?' = shall we meet tomorrow?",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-1101",
+      "hindi": "Jauungi",
+      "english": "I will go (feminine)",
+      "spanish": "Iré (femenino)",
+      "note": "'Main jauungi' = I will go. 'Main kal market jauungi' = I'll go to the market tomorrow. Masculine: 'jauunga'. The -gi ending is the feminine future marker. 'Kahan jauungi tum?' = where will you go? (informal)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1102",
+      "hindi": "Karuungi",
+      "english": "I will do (feminine)",
+      "spanish": "Haré (femenino)",
+      "note": "'Main karuungi' = I will do it. 'Main zaroor karuungi' = I'll definitely do it. Masculine: 'karuunga'. 'Kya tum yeh karuungi?' = will you do this? A very useful promise phrase."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1103",
+      "hindi": "Aauungi",
+      "english": "I will come (feminine)",
+      "spanish": "Vendré (femenino)",
+      "note": "'Main aauungi' = I will come. 'Main kal zaroor aauungi' = I'll definitely come tomorrow. Masculine: 'aauunga'. 'Kab aauungi tum?' = when will you come? 'Pakka aauungi' = I'll come for sure (a common reassurance)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1101",
+      "prompt": "Your friend asks 'Will you come to the party?' You say yes. What do you reply?",
+      "correctAnswer": "Haan, main aauungi",
+      "distractors": ["Haan, main aauunga", "Haan, main aayi", "Haan, main aa rahi hoon"],
+      "hint": "Future tense, feminine — I will come"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1104",
+      "hindi": "Khaauungi",
+      "english": "I will eat (feminine)",
+      "spanish": "Comeré (femenino)",
+      "note": "'Main baad mein khaauungi' = I'll eat later. 'Kya khaauungi aaj?' = what shall I eat today? Masculine: 'khaauunga'. Common at meal times: 'Abhi nahi khaauungi' = I won't eat right now."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1105",
+      "hindi": "Bolungi",
+      "english": "I will say / tell (feminine)",
+      "spanish": "Diré (femenino)",
+      "note": "'Main usse bolungi' = I'll tell her/him. 'Main sach bolungi' = I'll tell the truth. Masculine: 'bolunga'. 'Main baad mein bolungi' = I'll say it later. Used for both speaking AND telling someone something."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1106",
+      "hindi": "Milenge",
+      "english": "We will meet / Let's meet",
+      "spanish": "Nos veremos / Nos reuniremos",
+      "note": "'Kal milenge?' = shall we meet tomorrow? 'Zaroor milenge' = we'll definitely meet. This is the PLURAL future form — used for 'we' or as a polite 'you will'. It's the go-to phrase for making plans in Delhi. Gender-neutral in plural."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1101",
+      "sentence": "Tension mat le, main kal _____. Promise.",
+      "sentenceEnglish": "Don't stress, I will come tomorrow. Promise.",
+      "answer": "aauungi",
+      "hint": "I will come — feminine",
+      "acceptedAlternatives": ["aauungi", "Aauungi"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1107",
+      "hindi": "Nahi jauungi",
+      "english": "I will not go (feminine)",
+      "spanish": "No iré (femenino)",
+      "note": "Negative future: just add 'nahi' before the verb. 'Main wahan nahi jauungi' = I'm not going there. 'Main yeh nahi karuungi' = I won't do this. 'Bilkul nahi jauungi' = I absolutely won't go."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1108",
+      "hindi": "Sochungi",
+      "english": "I will think (feminine)",
+      "spanish": "Pensaré (femenino)",
+      "note": "'Main sochungi' = I'll think about it (common non-committal answer). 'Dekh lena, sochungi' = we'll see, I'll think. Masculine: 'sochunga'. Very useful when you don't want to say yes or no immediately."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1102",
+      "prompt": "You want to say 'I will not do this.' Which is correct?",
+      "correctAnswer": "Main yeh nahi karuungi",
+      "distractors": ["Main yeh nahi karuunga", "Main yeh nahi kiya", "Main yeh nahi kar rahi hoon"],
+      "hint": "Future tense + negative + feminine"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-1101",
+      "instruction": "Match the masculine future to its feminine form",
+      "pairs": [
+        { "hindi": "Jauunga (m)", "english": "Jauungi (f)" },
+        { "hindi": "Karuunga (m)", "english": "Karuungi (f)" },
+        { "hindi": "Aauunga (m)", "english": "Aauungi (f)" },
+        { "hindi": "Bolunga (m)", "english": "Bolungi (f)" }
+      ]
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1102",
+      "sentence": "Main kal office nahi _____. Ghar se kaam karuungi.",
+      "sentenceEnglish": "I will not go to office tomorrow. I will work from home.",
+      "answer": "jauungi",
+      "hint": "I will not go — feminine future negative",
+      "acceptedAlternatives": ["jauungi", "Jauungi", "nahi jauungi", "Nahi jauungi"]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1103",
+      "prompt": "You want to make plans to meet a friend. What's the most natural thing to say?",
+      "correctAnswer": "Kal milenge?",
+      "distractors": ["Kal milogi?", "Kal mila?", "Kal milna hai?"],
+      "hint": "'Milenge' = let's meet / shall we meet — common plan-making phrase"
+    }
+  ]
+}

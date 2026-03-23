@@ -1,0 +1,178 @@
+{
+  "id": "lesson-06-numbers",
+  "title": "Numbers & Money",
+  "icon": "🔢",
+  "xpReward": 20,
+  "description": "Counting, prices, bargaining — the practical math of Delhi life.",
+  "culturalNote": "Hindi numbers are irregular and you just have to learn them. But the good news: in real Delhi life, people use English numbers for prices constantly. 'Five hundred rupees' is as normal as 'paanch sau'. What you DO need is the bargaining phrases — those always stay in Hindi.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-601",
+      "hindi": "Gyarah / Barah / Terah",
+      "english": "Eleven / Twelve / Thirteen",
+      "spanish": "Once / Doce / Trece",
+      "note": "Teen numbers are irregular — memorise them as a group. Gyarah (11), barah (12), terah (13), chaudah (14), pandrah (15)."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-602",
+      "hindi": "Solah / Satrah / Atharah",
+      "english": "Sixteen / Seventeen / Eighteen",
+      "spanish": "Dieciséis / Diecisiete / Dieciocho",
+      "note": "Solah (16), satrah (17), atharah (18), unnees (19), bees (20). 'Bees' for twenty is easy to remember."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-601",
+      "prompt": "What is 'Bees' in English?",
+      "correctAnswer": "Twenty",
+      "distractors": ["Fifteen", "Eighteen", "Twelve"],
+      "hint": "Bees = 20 — sounds a bit like 'bees (as in bees buzzing)'"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-601",
+      "instruction": "Match the Hindi number",
+      "pairs": [
+        { "hindi": "Gyarah", "english": "Eleven" },
+        { "hindi": "Pandrah", "english": "Fifteen" },
+        { "hindi": "Bees", "english": "Twenty" },
+        { "hindi": "Barah", "english": "Twelve" }
+      ]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-603",
+      "hindi": "Tees / Chaalees / Pachaas",
+      "english": "Thirty / Forty / Fifty",
+      "spanish": "Treinta / Cuarenta / Cincuenta",
+      "note": "Tees (30), chaalees (40), pachaas (50), saath (60), sattar (70), assi (80), nabbe (90). The round tens are very commonly used in prices."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-604",
+      "hindi": "Sau",
+      "english": "One hundred (100)",
+      "spanish": "Cien",
+      "note": "'Ek sau' or just 'sau' = 100. 'Do sau' = 200. 'Paanch sau' = 500. 'Sau' is the backbone of pricing — you'll hear it everywhere."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-605",
+      "hindi": "Hazaar",
+      "english": "One thousand (1,000)",
+      "spanish": "Mil",
+      "note": "'Ek hazaar' = 1,000. 'Do hazaar' = 2,000. 'Paanch hazaar' = 5,000. For rent, phone bills, travel — hazaar is your unit."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-602",
+      "prompt": "The auto driver says 'do sau rupaye'. How much is he asking for?",
+      "correctAnswer": "200 rupees",
+      "distractors": ["20 rupees", "2,000 rupees", "120 rupees"],
+      "hint": "Do = two, sau = hundred"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-606",
+      "hindi": "Lakh",
+      "english": "One hundred thousand (1,00,000)",
+      "spanish": "Cien mil",
+      "note": "India uses lakh, not 'hundred thousand'. 1 lakh = 1,00,000. Salaries, rents, car prices are in lakhs. '5 lakh ka ghar' = a 5 lakh house (~$6,000). Essential for real-world finance talk."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-607",
+      "hindi": "Crore",
+      "english": "Ten million (1,00,00,000)",
+      "spanish": "Diez millones",
+      "note": "1 crore = 10 million. Big business, movie budgets, expensive properties. '50 crore ki film' = a 50 crore film. The Indian number system: 1 → 10 → 100 → 1,000 → 1 lakh → 10 lakh → 1 crore."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-603",
+      "prompt": "Your friend says their new apartment costs '50 lakh'. How much is that?",
+      "correctAnswer": "5,000,000 (50 × 100,000)",
+      "distractors": ["500,000", "50,000", "500,000,000"],
+      "hint": "1 lakh = 100,000, so 50 lakh = ?"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-608",
+      "hindi": "Kitne ka hai?",
+      "english": "How much is it? / What does it cost?",
+      "spanish": "¿Cuánto cuesta?",
+      "note": "Your first question in any market or shop. 'Kitne ka?' alone is slightly more casual. 'Kitne mein milega?' = how much will I get it for? (slightly more negotiation-ready)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-609",
+      "hindi": "Kitna hua?",
+      "english": "How much does it come to? / What's the total?",
+      "spanish": "¿A cuánto sale? / ¿Cuánto es?",
+      "note": "Use at restaurants and after buying multiple items. 'Kitna hua total?' = what's the total? Slightly different from 'kitne ka hai?' — this asks for a final amount, not a price tag."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-610",
+      "hindi": "Thoda kam karo na",
+      "english": "Reduce it a little, won't you? / Give a discount",
+      "spanish": "Baja un poco, ¿no?",
+      "note": "The core bargaining phrase. 'Na' at the end makes it a polite request, not a demand. 'Thoda' = a little (not too aggressive). Works in markets, autos, street food. Essential for Delhi shopping."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-601",
+      "sentence": "Bhaiya, sau rupaye bahut zyada hai. _____.",
+      "sentenceEnglish": "Brother, 100 rupees is too much. _____.",
+      "answer": "Thoda kam karo na",
+      "hint": "Asking for a reduction — polite bargaining phrase",
+      "acceptedAlternatives": ["thoda kam karo na", "Thoda Kam Karo Na"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-611",
+      "hindi": "Kuch nahi milega?",
+      "english": "Won't I get anything off? / No discount at all?",
+      "spanish": "¿No me hace un descuento?",
+      "note": "Slightly more insistent than 'thoda kam karo na'. 'Kuch' = something/anything. Use this after the first no. Body language matters — smile while saying it."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-612",
+      "hindi": "Pakka price hai?",
+      "english": "Is this the fixed price? / Is this final?",
+      "spanish": "¿Es precio fijo?",
+      "note": "'Pakka' = fixed/sure/certain. In fixed-price shops you'd ask to confirm. In markets it's a setup for negotiation. 'Pakka' alone = it's for sure / confirmed."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-604",
+      "prompt": "The shopkeeper says '300 rupaye'. You want to negotiate. What do you say first?",
+      "correctAnswer": "Thoda kam karo na",
+      "distractors": ["Kitne ka hai?", "Bahut acha hai", "Ek hazaar deta hoon"],
+      "hint": "The classic opening bargaining phrase"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-602",
+      "instruction": "Match the number word",
+      "pairs": [
+        { "hindi": "Tees", "english": "Thirty" },
+        { "hindi": "Sau", "english": "Hundred" },
+        { "hindi": "Hazaar", "english": "Thousand" },
+        { "hindi": "Lakh", "english": "Hundred thousand" }
+      ]
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-602",
+      "sentence": "Bhaiya, _____ loge auto ka?",
+      "sentenceEnglish": "Brother, how much will you take for the auto?",
+      "answer": "kitne",
+      "hint": "How much — the question word for price",
+      "acceptedAlternatives": ["Kitne", "kitna", "Kitna"]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "lesson-14-commands",
+  "title": "Commands & Requests",
+  "icon": "👆",
+  "xpReward": 30,
+  "description": "Ask, tell, and request — from gentle to firm — the way Delhi people actually do it.",
+  "culturalNote": "Hindi has multiple levels of command that signal your relationship. 'Karo' (informal), 'kariye' (polite), 'karo na' (softened with 'na'). In Delhi, adding 'zaraa' or 'please' softens a command into a request. Getting this register right matters — using the wrong level sounds either rude or overly stiff.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-1401",
+      "hindi": "Bolo",
+      "english": "Say / Tell (informal command)",
+      "spanish": "Di / Cuéntame (informal)",
+      "note": "'Bolo' = say/tell (informal). 'Sach bolo' = tell the truth. 'Kuch bolo na' = say something, won't you? 'Bolo yaar' = come on, say it. Formal: 'boliye'. Very common in Delhi — 'haan bolo' = yes, go on/say it."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1402",
+      "hindi": "Suno",
+      "english": "Listen / Hey (informal command)",
+      "spanish": "Escucha / Oye",
+      "note": "'Suno' = listen/hey (to get attention). 'Suno, yeh important hai' = listen, this is important. 'Suno na' = hey listen. Also used like 'hey' to call someone: just 'Suno!' to get a friend's attention. Formal: 'suniye' — used to call waiters, shopkeepers."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1403",
+      "hindi": "Aao",
+      "english": "Come (informal command)",
+      "spanish": "Ven (informal)",
+      "note": "'Aao' = come (informal). 'Ghar aao' = come home. 'Jaldi aao' = come quickly. Formal: 'aaiye'. 'Aao na' = come on, come (softer, a bit pleading). 'Aate raho' = keep coming/stay in touch."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1401",
+      "prompt": "You want to politely get a waiter's attention and say 'please listen.' What do you say?",
+      "correctAnswer": "Suniye, please",
+      "distractors": ["Suno, please", "Sun, please", "Sunna, please"],
+      "hint": "Formal command for 'listen' — use with strangers/elders"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1404",
+      "hindi": "Mat karo",
+      "english": "Don't do (informal negative command)",
+      "spanish": "No hagas (informal)",
+      "note": "'Mat' = don't (for commands). 'Yeh mat karo' = don't do this. 'Tension mat lo' = don't stress. 'Ro mat' = don't cry. 'Bhool mat jaana' = don't forget. Always use 'mat' (not 'nahi') for negative commands. 'Nahi' is for statements."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1405",
+      "hindi": "Zaraa",
+      "english": "Just / A little (softener)",
+      "spanish": "Solo un momento / Un poquito",
+      "note": "'Zaraa' turns commands into gentle requests. 'Zaraa dekho' = just take a look. 'Zaraa ruko' = just wait a moment. 'Zaraa bata' = just tell me. 'Zaraa' is the magic word that makes a command sound polite without using formal forms. Use it constantly."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1401",
+      "sentence": "Yeh _____ karo — bahut important hai.",
+      "sentenceEnglish": "Don't do this — it's very important.",
+      "answer": "mat",
+      "hint": "'Mat' = don't (negative command word)",
+      "acceptedAlternatives": ["mat", "Mat"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1406",
+      "hindi": "Ruko",
+      "english": "Wait / Stop (informal command)",
+      "spanish": "Espera / Para (informal)",
+      "note": "'Ruko' = wait/stop (informal). 'Ek minute ruko' = wait one minute. 'Ruko na' = wait, won't you? Formal: 'rukiye'. 'Ruk' (very informal/abrupt) = stop. 'Ruk ja' = stop/hold on. 'Rukte ho?' = do you stop here? (asking a rickshaw driver)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1407",
+      "hindi": "Dekho",
+      "english": "Look / See (informal command)",
+      "spanish": "Mira / Ve (informal)",
+      "note": "'Dekho' = look (informal). 'Dekho na' = look, please. 'Dekho, main sahi hoon' = look, I'm right (argumentative). 'Zaraa dekho' = just take a look. Also used to say 'you see' or 'look here' in an argument: 'Dekho, aise nahi hoga' = look, this won't work like this."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1402",
+      "prompt": "Your friend is worried about an exam. What's the most natural comforting command?",
+      "correctAnswer": "Tension mat le",
+      "distractors": ["Tension nahi lo", "Tension mat lena", "Tension ko mat karo"],
+      "hint": "'Mat' for don't, 'le' = take (informal command)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1408",
+      "hindi": "Jaao",
+      "english": "Go (informal command)",
+      "spanish": "Ve / Vete (informal)",
+      "note": "'Jaao' = go (informal). 'Ghar jaao' = go home. 'Jaldi jaao' = go quickly. 'Jaao na yaar' = come on, go! 'Jaane do' = let it go/let them go (accepting something). 'Jaane de' = forget it (dismissive, moving on)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1402",
+      "sentence": "_____ baith, main abhi aati hoon.",
+      "sentenceEnglish": "Just sit, I'll be right back.",
+      "answer": "Zaraa",
+      "hint": "'Just' / softener before a command",
+      "acceptedAlternatives": ["Zaraa", "zaraa"]
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-1401",
+      "instruction": "Match the command to its meaning",
+      "pairs": [
+        { "hindi": "Suno", "english": "Listen" },
+        { "hindi": "Ruko", "english": "Wait" },
+        { "hindi": "Dekho", "english": "Look" },
+        { "hindi": "Aao", "english": "Come" }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1403",
+      "prompt": "Which sentence most naturally means 'Just tell me what happened'?",
+      "correctAnswer": "Zaraa bata kya hua",
+      "distractors": ["Boliye kya hua", "Mat batao kya hua", "Bolo mat kya hua"],
+      "hint": "'Zaraa' softens the command, 'bata' = tell (informal)"
+    }
+  ]
+}

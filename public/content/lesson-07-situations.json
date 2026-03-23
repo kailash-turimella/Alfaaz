@@ -1,0 +1,184 @@
+{
+  "id": "lesson-07-situations",
+  "title": "Everyday Situations",
+  "icon": "🛍️",
+  "xpReward": 35,
+  "description": "Food ordering, getting around, and shopping — the three situations you'll face every day in Delhi.",
+  "culturalNote": "In Delhi, 'bhaiya' (brother) is what you call waiters, auto drivers, shopkeepers, and any unknown man you need help from. 'Didi' (sister) for women. It's respectful and warm — don't be shy about using it.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-701",
+      "hindi": "Bhaiya, menu dena",
+      "english": "Brother, give me the menu",
+      "spanish": "Hermano, me da el menú",
+      "note": "'Bhaiya' = respectful address for a waiter, shopkeeper, auto driver, etc. 'Dena' = give (imperative, polite). You can also say 'menu dikhao' (show me the menu)."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-702",
+      "hindi": "Kya recommend karoge?",
+      "english": "What would you recommend?",
+      "spanish": "¿Qué recomienda?",
+      "note": "Code-switched with English 'recommend'. Completely natural. 'Karoge' = will you do (future, informal). Also works: 'kya acha hai yahan?' = what's good here?"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-703",
+      "hindi": "Teekha mat banana",
+      "english": "Don't make it spicy",
+      "spanish": "No lo hagas picante",
+      "note": "'Teekha' = spicy/hot. 'Thoda teekha' = a little spicy. 'Bahut teekha mat karna' = don't make it too spicy. Important to know if you're not used to Indian spice levels!"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-704",
+      "hindi": "Bill le aana",
+      "english": "Please bring the bill",
+      "spanish": "Tráigame la cuenta",
+      "note": "'Bill' (English word) + 'le aana' = bring (lit: take and come). 'Bhaiya, bill le aana' is the standard way to call for the check. 'Bill' works universally — no need for 'hisaab'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-701",
+      "prompt": "You've finished your meal and want the check. What do you say to the waiter?",
+      "correctAnswer": "Bhaiya, bill le aana",
+      "distractors": ["Bhaiya, menu dena", "Bhaiya, pani lao", "Bhaiya, aur lao"],
+      "hint": "'Bill' + 'bring it here'"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-705",
+      "hindi": "Ek aur pani lao",
+      "english": "Bring one more water",
+      "spanish": "Tráigame otra agua",
+      "note": "'Ek aur' = one more. 'Lao' = bring (slightly more direct than 'le aana'). 'Ek aur chai chahiye' = I need one more tea. 'Ek aur' works for anything you want another of."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-701",
+      "sentence": "Bhaiya, _____ kya recommend karoge?",
+      "sentenceEnglish": "Brother, what would you recommend _____?",
+      "answer": "yahan",
+      "hint": "Here — what's good HERE?",
+      "acceptedAlternatives": ["Yahan", "yaha", "Yaha"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-706",
+      "hindi": "Seedha jao, phir right lo",
+      "english": "Go straight, then take a right",
+      "spanish": "Sigue recto, luego gira a la derecha",
+      "note": "'Seedha' = straight. 'Right lo' = take a right. 'Left lo' = take a left. 'U-turn lo' = take a U-turn. Directions in Delhi often mix Hindi and English freely."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-707",
+      "hindi": "Kitni door hai?",
+      "english": "How far is it?",
+      "spanish": "¿A qué distancia está? / ¿Qué tan lejos?",
+      "note": "'Kitni door' = how far. 'Bahut door nahi' = not very far. 'Paas hi hai' = it's nearby/close. 'Paidal jaoge toh 10 minute lagenge' = if you walk, it'll take 10 minutes."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-708",
+      "hindi": "Bhaiya, kitna loge?",
+      "english": "Brother, how much will you charge?",
+      "spanish": "Hermano, ¿cuánto cobra?",
+      "note": "Always ask before getting in an auto. 'Loge' = will you take. If the price is too high: 'bahut zyada hai bhaiya' then 'thoda kam karo na'. Meter nahi use karte toh price negotiate karo."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-702",
+      "prompt": "You need directions and want to ask 'how far is it?' What do you say?",
+      "correctAnswer": "Kitni door hai?",
+      "distractors": ["Kitne ka hai?", "Kahan hai?", "Kab aaunga?"],
+      "hint": "'Kitni door' = how far"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-709",
+      "hindi": "Metro kab tak hai?",
+      "english": "How long is the metro running? / Until when is the metro?",
+      "spanish": "¿Hasta cuándo hay metro?",
+      "note": "'Kab tak' = until when / how long. Also: 'metro kab aayegi?' = when will the metro come? 'Agli metro kab hai?' = when is the next metro? Delhi metro is a lifesaver — know how to ask about it."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-710",
+      "hindi": "Yeh kitne ka hai?",
+      "english": "How much is this?",
+      "spanish": "¿Cuánto cuesta esto?",
+      "note": "'Yeh' = this. The most basic shopping question. Point at the item. 'Woh kitne ka hai?' = how much is that? 'Yeh wala' = this one (pointing). 'Woh wala' = that one."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-711",
+      "hindi": "Aur dikhao",
+      "english": "Show me more / Show more options",
+      "spanish": "Muéstrame más",
+      "note": "'Dikhao' = show (imperative). 'Aur kuch dikhao' = show me something else. 'Iska aur color hai?' = does this have another color? 'Size chhota hai, bada dikhao' = size is small, show bigger."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-702",
+      "sentence": "Yeh too small hai. _____ size mein dikhao.",
+      "sentenceEnglish": "This is too small. Show me in a _____ size.",
+      "answer": "bade",
+      "hint": "Bigger — the adjective for 'big' in plural/formal form",
+      "acceptedAlternatives": ["bade", "Bade", "bada", "Bada"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-712",
+      "hindi": "Pakka hai?",
+      "english": "Is that for sure? / Are you sure? / Is it guaranteed?",
+      "spanish": "¿Seguro? / ¿Estás seguro?",
+      "note": "'Pakka' = sure/fixed/confirmed. Used everywhere: 'kal aana hai, pakka?' = you're definitely coming tomorrow? 'Pakka!' as a standalone = absolutely, for sure! Key Delhi word."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-703",
+      "prompt": "You're bargaining for a kurti and the seller gives you a price. You want to start negotiating. What do you say?",
+      "correctAnswer": "Thoda kam karo na",
+      "distractors": ["Aur dikhao", "Pakka hai?", "Teekha mat banana"],
+      "hint": "The opening bargaining move"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-701",
+      "instruction": "Match the situation phrase",
+      "pairs": [
+        { "hindi": "Bhaiya, bill le aana", "english": "Bring the check" },
+        { "hindi": "Kitni door hai?", "english": "How far is it?" },
+        { "hindi": "Aur dikhao", "english": "Show me more" },
+        { "hindi": "Seedha jao", "english": "Go straight" }
+      ]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-713",
+      "hindi": "Khaana ready hai?",
+      "english": "Is the food ready?",
+      "spanish": "¿Está lista la comida?",
+      "note": "'Khaana' = food. 'Ready' (English) + 'hai' = is ready. Completely natural hybrid. You can also say 'order aa gaya?' = has the order arrived? in restaurants."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-703",
+      "sentence": "Bhaiya, _____ hai? Bahut der ho gayi.",
+      "sentenceEnglish": "Brother, is _____ ready? It's been very long.",
+      "answer": "khaana",
+      "hint": "The thing you're waiting for in a restaurant",
+      "acceptedAlternatives": ["Khaana", "khaana"]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-704",
+      "prompt": "You're in an auto and want to tell the driver to go straight and then turn left. What do you say?",
+      "correctAnswer": "Seedha jao, phir left lo",
+      "distractors": ["Right lo, phir seedha jao", "U-turn lo, phir bas", "Ruko, main utar jaata hoon"],
+      "hint": "Straight first, then left"
+    }
+  ]
+}

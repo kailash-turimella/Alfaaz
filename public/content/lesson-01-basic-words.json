@@ -1,0 +1,291 @@
+{
+  "id": "lesson-01-basic-words",
+  "title": "Basic Words",
+  "icon": "🔤",
+  "xpReward": 20,
+  "description": "The 30 most-used words in everyday Delhi Hindi. No formal textbook words here.",
+  "culturalNote": "Hindi and English mix freely in Delhi — don't feel weird about it. 'Bahut stress hai' is perfectly normal. Young Delhiites switch between Hindi and English mid-sentence all the time. You'll fit right in.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-001",
+      "hindi": "Haan",
+      "english": "Yes / Yeah",
+      "spanish": "Sí",
+      "note": "Tone matters everything. Drawn-out 'Haaan' = obviously yes. Quick 'Haan' = neutral yes. 'Ha' or just 'Hmm' = super casual agreement. Also written 'Han'."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-002",
+      "hindi": "Nahi",
+      "english": "No / Nope",
+      "spanish": "No",
+      "note": "Softened with 'na' at the end: 'nahi na' sounds gentler than just 'nahi'. Quick 'Na' alone is also very common — like a soft no."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-003",
+      "hindi": "Bas",
+      "english": "Enough / That's it / Just / Stop",
+      "spanish": "Ya basta / Nada más / Solo",
+      "note": "'Bas' is incredibly versatile. 'Bas yahi chahiye' (just this is needed), 'Bas kar!' (stop it!), 'Bas 5 minute' (just 5 minutes), 'Bas theek hai' (that's enough, it's fine)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-001",
+      "prompt": "Your friend keeps teasing you and won't stop. What do you say?",
+      "correctAnswer": "Bas kar!",
+      "distractors": ["Haan kar!", "Nahi kar!", "Chal kar!"],
+      "hint": "Think: 'enough of this!'"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-004",
+      "hindi": "Acha",
+      "english": "Okay / I see / Really? / Good",
+      "spanish": "Ah, ya veo / Está bien",
+      "note": "'Acha?' rising tone = 'Really?!' | 'Acha.' flat = 'okay, got it' | 'Acha acha' = 'yeah yeah I know' (sometimes dismissive) | 'Bahut acha' = very good. One of the most-used words in Hindi."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-005",
+      "hindi": "Theek hai",
+      "english": "It's fine / Okay / That's alright",
+      "spanish": "Está bien / De acuerdo",
+      "note": "Your all-purpose agreement and sign-off. 'Theek hai yaar' closes almost any plan. 'Theek?' alone = 'alright?' (checking in)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-001",
+      "sentence": "Plan Sunday ka? _____ yaar, chal.",
+      "sentenceEnglish": "Plan for Sunday? _____ dude, let's do it.",
+      "answer": "Theek hai",
+      "hint": "Agreeing to the plan",
+      "acceptedAlternatives": ["theek hai", "Theek Hai"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-006",
+      "hindi": "Chal",
+      "english": "Let's go / Okay then / Come on / Move",
+      "spanish": "Vámonos / Ándale / Venga",
+      "note": "'Chal' starts AND ends conversations in Delhi. 'Chal, bye!' is the classic Delhi goodbye. 'Chal na' = come on (urging someone gently). 'Chal yaar' = let's do it, man."
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-001",
+      "instruction": "Match each Hindi word to its meaning",
+      "pairs": [
+        { "hindi": "Haan", "english": "Yes" },
+        { "hindi": "Nahi", "english": "No" },
+        { "hindi": "Bas", "english": "Enough / Stop" },
+        { "hindi": "Chal", "english": "Let's go / Okay" }
+      ]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-007",
+      "hindi": "Yaar",
+      "english": "Friend / Dude / Man / Buddy",
+      "spanish": "Amigo / Tío / Güey",
+      "note": "Delhi's most essential word. Add it to almost anything to sound natural: 'yaar kya hua?' / 'theek hai yaar' / 'chal yaar'. Not gender-specific — women use it just as freely as men."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-008",
+      "hindi": "Arre",
+      "english": "Hey! / Oh! / Wow! / Ugh! (exclamation)",
+      "spanish": "¡Ay! / ¡Órale! / ¡Anda!",
+      "note": "'Arre' expresses surprise, frustration, or emphasis depending on tone. 'Arre yaar!' = oh man! | 'Arre haan!' = oh yes of course! | 'Arre nahi!' = no way! | 'Arre chal' = oh come on."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-002",
+      "prompt": "Your friend tells you something really surprising. You want to express 'Oh wow, no way!' What word do you start with?",
+      "correctAnswer": "Arre",
+      "distractors": ["Bas", "Chal", "Haan"],
+      "hint": "It's an exclamation of surprise or disbelief"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-009",
+      "hindi": "Matlab",
+      "english": "Meaning / I mean / So / Like",
+      "spanish": "O sea / Es decir / O sea que",
+      "note": "'Matlab' works exactly like 'I mean' or 'like' as an English filler. 'Matlab woh aaya hi nahi' = I mean, he just didn't show up. Very Delhi. You'll hear it constantly."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-010",
+      "hindi": "Waise",
+      "english": "By the way / Anyway / Actually",
+      "spanish": "Por cierto / De todas formas / En realidad",
+      "note": "'Waise bhi' = anyway / besides (adding emphasis). 'Waise' at the start = 'by the way'. 'Waise toh sab theek hai' = otherwise everything's fine."
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-002",
+      "instruction": "Match the filler word to its closest English equivalent",
+      "pairs": [
+        { "hindi": "Matlab", "english": "I mean / Like" },
+        { "hindi": "Waise", "english": "By the way" },
+        { "hindi": "Yaar", "english": "Dude / Friend" },
+        { "hindi": "Arre", "english": "Oh! / Hey!" }
+      ]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-011",
+      "hindi": "Abhi",
+      "english": "Now / Right now / Just now",
+      "spanish": "Ahora / Ahorita",
+      "note": "'Abhi' = right now. 'Abhi nahi' = not right now. 'Abhi aa rahi hoon' = I'm coming right now (feminine form -rahi). 'Abhi abhi' = just this moment."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-012",
+      "hindi": "Kal",
+      "english": "Yesterday OR Tomorrow (context tells you which!)",
+      "spanish": "Ayer / Mañana",
+      "note": "Warning: same word, opposite times! 'Kal hua' (past tense) = it happened yesterday. 'Kal hoga' (future tense) = it will happen tomorrow. Context + verb tense = key."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-003",
+      "prompt": "'Kal milte hain' — what does this mean?",
+      "correctAnswer": "Let's meet tomorrow",
+      "distractors": ["We met yesterday", "Let's meet now", "We should meet sometime"],
+      "hint": "'Milte hain' points to the future — and kal + future = ?"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-013",
+      "hindi": "Aaj",
+      "english": "Today",
+      "spanish": "Hoy",
+      "note": "Simple and unambiguous — just today! 'Aaj kya plan hai?' = what's the plan today? 'Aaj nahi' = not today."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-002",
+      "sentence": "_____ nahi, kal milte hain.",
+      "sentenceEnglish": "Not _____, let's meet tomorrow.",
+      "answer": "Aaj",
+      "hint": "The opposite of 'kal'",
+      "acceptedAlternatives": ["aaj"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-014",
+      "hindi": "Phir",
+      "english": "Then / Later / Again / After that",
+      "spanish": "Entonces / Luego / De nuevo",
+      "note": "'Phir milte hain' = we'll meet later/again. 'Phir bhi' = even so / still. 'Phir?' = then what? / so what happened? 'Phir se' = once again."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-015",
+      "hindi": "Pata nahi",
+      "english": "I don't know / No idea",
+      "spanish": "No sé / Ni idea",
+      "note": "Literally 'path/address not known'. Extremely common. 'Pata nahi yaar' is a complete, socially acceptable answer to almost any awkward question. Also: 'mujhe pata nahi' = more formal version."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-016",
+      "hindi": "Bilkul",
+      "english": "Absolutely / Exactly / Of course",
+      "spanish": "Absolutamente / Por supuesto / Exactamente",
+      "note": "Stronger than 'haan'. 'Bilkul sahi' = absolutely right. 'Bilkul nahi' = absolutely not. 'Bilkul' alone as a response = 100% yes, definitely."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-017",
+      "hindi": "Bahut",
+      "english": "Very / A lot / Too much",
+      "spanish": "Muy / Mucho",
+      "note": "'Bahut acha' = very good. 'Bahut ho gaya' = that's way too much now. 'Bahut' is your main intensifier — use it everywhere. 'Bahut zyada' = way too much."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-018",
+      "hindi": "Thoda",
+      "english": "A little / A bit / Some",
+      "spanish": "Un poco / Algo",
+      "note": "'Thoda ruko' = wait a bit. 'Thoda thoda' = little by little / bit by bit. 'Thoda sa' = just a tiny bit. The gentler alternative to bahut."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-004",
+      "prompt": "You want to say 'that's way too much!' What word do you use?",
+      "correctAnswer": "Bahut",
+      "distractors": ["Thoda", "Bas", "Abhi"],
+      "hint": "The intensifier — 'very / a lot'"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-003",
+      "instruction": "Match the question word",
+      "pairs": [
+        { "hindi": "Kya", "english": "What / Is it?" },
+        { "hindi": "Kahan", "english": "Where" },
+        { "hindi": "Kab", "english": "When" },
+        { "hindi": "Kaun", "english": "Who" }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-005",
+      "prompt": "How do you ask 'why?' in Hindi?",
+      "correctAnswer": "Kyun",
+      "distractors": ["Kaise", "Kahan", "Kab"],
+      "hint": "Starts with 'ky' — why = kyun"
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-006",
+      "prompt": "How do you ask 'how?' in Hindi?",
+      "correctAnswer": "Kaise",
+      "distractors": ["Kyun", "Kaun", "Kya"],
+      "hint": "How = kaise (think: 'kai' sounds like 'how' loosely)"
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-004",
+      "instruction": "Match the Hindi numbers 1–4",
+      "pairs": [
+        { "hindi": "Ek", "english": "One" },
+        { "hindi": "Do", "english": "Two" },
+        { "hindi": "Teen", "english": "Three" },
+        { "hindi": "Chaar", "english": "Four" }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-005",
+      "instruction": "Match the Hindi numbers 5–8",
+      "pairs": [
+        { "hindi": "Paanch", "english": "Five" },
+        { "hindi": "Chhe", "english": "Six" },
+        { "hindi": "Saat", "english": "Seven" },
+        { "hindi": "Aath", "english": "Eight" }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-007",
+      "prompt": "What number is 'Nau'?",
+      "correctAnswer": "Nine",
+      "distractors": ["Eight", "Ten", "Seven"],
+      "hint": "Second to last single digit"
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-008",
+      "prompt": "What number is 'Das'?",
+      "correctAnswer": "Ten",
+      "distractors": ["Eight", "Nine", "Eleven"],
+      "hint": "The last single-digit number"
+    }
+  ]
+}

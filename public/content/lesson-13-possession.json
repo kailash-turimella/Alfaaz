@@ -1,0 +1,119 @@
+{
+  "id": "lesson-13-possession",
+  "title": "Possession",
+  "icon": "🏠",
+  "xpReward": 30,
+  "description": "Mera, tera, uska — possession words that change based on what's owned, not who owns it.",
+  "culturalNote": "Possessives in Hindi are more complex than English — they agree in gender and number with the thing owned, not the owner. So a woman says 'mera ghar' (my house) and 'meri car' (my car). Once you get this pattern, it applies to ALL possessives. It's one rule, not many.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-1301",
+      "hindi": "Mera / Meri",
+      "english": "My (m / f object)",
+      "spanish": "Mi (masculino / femenino)",
+      "note": "'Mera' for masculine objects: 'mera ghar' (house), 'mera phone' (phone), 'mera dost' (male friend). 'Meri' for feminine: 'meri car', 'meri dost' (female friend), 'meri baat' (my words). The OWNED thing's gender decides which to use, not your gender."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1302",
+      "hindi": "Tera / Teri",
+      "english": "Your (informal m / f object)",
+      "spanish": "Tu (masculino / femenino)",
+      "note": "'Tera' (m): 'tera ghar', 'tera phone'. 'Teri' (f): 'teri car', 'teri baat'. This is informal — use with close friends. 'Tera kya scene hai?' = what's your situation/what's up? 'Teri galti hai' = it's your fault."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1303",
+      "hindi": "Aapka / Aapki",
+      "english": "Your (formal m / f object)",
+      "spanish": "Su (formal, masculino / femenino)",
+      "note": "'Aapka' (m): 'aapka naam kya hai?' = what is your name? 'Aapki' (f): 'aapki baat sahi hai' = you are right. Use with elders, strangers, or anyone you're being respectful to. 'Aapka' is safer when in doubt."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1301",
+      "prompt": "You want to say 'This is my phone.' (Phone is masculine.) What do you say?",
+      "correctAnswer": "Yeh mera phone hai",
+      "distractors": ["Yeh meri phone hai", "Yeh mere phone hai", "Yeh mujhe phone hai"],
+      "hint": "'Phone' is masculine → mera"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1304",
+      "hindi": "Uska / Uski",
+      "english": "His / Her (m / f object)",
+      "spanish": "Su (de él/ella, masculino / femenino)",
+      "note": "'Uska' (m object): 'uska ghar door hai' = his/her house is far. 'Uski' (f object): 'uski car nahi aayi' = his/her car didn't come. Note: 'uska' and 'uski' are the same for he/she — Hindi doesn't distinguish his/her in possessives!"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1305",
+      "hindi": "Hamara / Hamari",
+      "english": "Our (m / f object)",
+      "spanish": "Nuestro / Nuestra",
+      "note": "'Hamara' (m): 'hamara ghar' = our house. 'Hamari' (f): 'hamari team' = our team. 'Hamara plan kya hai?' = what's our plan? In Delhi, friends use 'hamara' very inclusively — 'yaar, hamara kya hoga?' = man, what will become of us?"
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1301",
+      "sentence": "_____ baat suno — main sahi bol rahi hoon.",
+      "sentenceEnglish": "Listen to me — I'm saying the right thing. (Informal, addressing one friend)",
+      "answer": "Meri",
+      "hint": "'Baat' is feminine → meri (my words/what I'm saying)",
+      "acceptedAlternatives": ["Meri", "meri"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1306",
+      "hindi": "Mere / Teri / Uske",
+      "english": "My/Your/His-Her (plural objects)",
+      "spanish": "Mis / Tus / Sus (plural)",
+      "note": "For plural owned things: 'mere dost' = my friends, 'teri books' = your books, 'uske kapde' = his/her clothes. Pattern: mera→mere, meri→stays meri for pl too (or mere in some usages). Focus on: mere (my-pl), uske (his/her-pl)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1302",
+      "prompt": "Whose car is this? It belongs to Neha. How do you say 'This is Neha's car'? (Car is feminine)",
+      "correctAnswer": "Yeh Neha ki car hai",
+      "distractors": ["Yeh Neha ka car hai", "Yeh Neha ke car hai", "Yeh Neha se car hai"],
+      "hint": "'Car' is feminine → ki"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1307",
+      "hindi": "Mujhe",
+      "english": "To me / I have (with 'hai')",
+      "spanish": "Me / Tengo (con 'hai')",
+      "note": "'Mujhe' = to me (dative). 'Mujhe bhookh hai' = I'm hungry (lit: hunger is to me). 'Mujhe pata hai' = I know (lit: knowledge is to me). 'Mujhe yeh chahiye' = I want/need this. Very different from English — many feelings are expressed as 'happening to me'."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1302",
+      "sentence": "Yeh _____ ghar hai. Main yahan rehti hoon.",
+      "sentenceEnglish": "This is my house. I live here.",
+      "answer": "mera",
+      "hint": "'Ghar' is masculine → mera",
+      "acceptedAlternatives": ["mera", "Mera"]
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-1301",
+      "instruction": "Match the possessive to its meaning",
+      "pairs": [
+        { "hindi": "Mera / Meri", "english": "My" },
+        { "hindi": "Tera / Teri", "english": "Your (informal)" },
+        { "hindi": "Uska / Uski", "english": "His / Her" },
+        { "hindi": "Hamara / Hamari", "english": "Our" }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1303",
+      "prompt": "How do you express 'I'm hungry' in Hindi? (Use the 'mujhe...hai' pattern)",
+      "correctAnswer": "Mujhe bhookh hai",
+      "distractors": ["Main bhookha hoon", "Mera bhookh hai", "Mere ko bhookh ho"],
+      "hint": "Hunger 'happens to' you: mujhe + bhookh + hai"
+    }
+  ]
+}

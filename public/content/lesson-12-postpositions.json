@@ -1,0 +1,127 @@
+{
+  "id": "lesson-12-postpositions",
+  "title": "Postpositions",
+  "icon": "🔗",
+  "xpReward": 30,
+  "description": "Hindi's 'prepositions' come AFTER the noun — learn mein, par, ko, se, and ka/ki/ke.",
+  "culturalNote": "Unlike English prepositions (before the noun), Hindi postpositions come after. 'Ghar mein' = in the house (literally: house in). Once this clicks, sentences start making sense. These 5 postpositions cover 90% of everyday usage in Delhi conversations.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-1201",
+      "hindi": "Mein",
+      "english": "In / Inside",
+      "spanish": "En / Dentro de",
+      "note": "'Ghar mein' = in the house. 'Delhi mein' = in Delhi. 'Bag mein' = in the bag. 'Dil mein' = in the heart. Comes AFTER the noun. 'Kya tum ghar mein ho?' = are you inside the house? The most common postposition."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1202",
+      "hindi": "Par",
+      "english": "On / At",
+      "spanish": "En / Sobre / En (lugar)",
+      "note": "'Table par' = on the table. 'Ghar par' = at home. 'Phone par' = on the phone. 'Woh abhi ghar par hai' = she's at home right now. 'Station par milte hain' = let's meet at the station. Par = surface or location."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1203",
+      "hindi": "Ko",
+      "english": "To / For (indirect object marker)",
+      "spanish": "A / Para",
+      "note": "'Usse ko' → 'usse' = to him/her. 'Mujhe' = to me. 'Ko' marks the recipient. 'Mujhe bhookh lagi hai' = I'm hungry (hunger is happening TO me). 'Usse bolo' = tell him/her. Often fused: 'mujhe', 'tujhe', 'usse'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1201",
+      "prompt": "How do you say 'The keys are on the table'?",
+      "correctAnswer": "Chaabi table par hai",
+      "distractors": ["Chaabi table mein hai", "Chaabi table se hai", "Chaabi table ko hai"],
+      "hint": "'Par' = on (surface)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1204",
+      "hindi": "Se",
+      "english": "From / With / By",
+      "spanish": "De / Con / Por",
+      "note": "Multi-purpose: 'Delhi se' = from Delhi. 'Bus se' = by bus. 'Usse' = with him/from him. 'Dil se' = from the heart (sincerely). 'Kab se?' = since when? 'Se' marks origin, means of transport, or comparison: 'mujhse better' = better than me."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1205",
+      "hindi": "Ka / Ki / Ke",
+      "english": "Of / 's (possession marker)",
+      "spanish": "De (posesión)",
+      "note": "Matches the OWNED thing's gender: 'Rohan ka ghar' (house=m) = Rohan's house. 'Rohan ki car' (car=f) = Rohan's car. 'Rohan ke kapde' (clothes=pl) = Rohan's clothes. This is the hardest postposition — the owner doesn't change, only the owned thing's gender affects ka/ki/ke."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1201",
+      "sentence": "Main kal Mumbai _____ aayi. Bahut thak gayi.",
+      "sentenceEnglish": "I came from Mumbai yesterday. Got very tired.",
+      "answer": "se",
+      "hint": "'Se' = from",
+      "acceptedAlternatives": ["se", "Se"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1206",
+      "hindi": "Ke saath",
+      "english": "With (someone)",
+      "spanish": "Con (alguien)",
+      "note": "'Ke saath' = with (a person). 'Tum kiske saath aayi?' = who did you come with? 'Main apni dost ke saath gayi' = I went with my friend. 'Mere saath' = with me. Note: 'ke saath' for people, 'se' for instruments/means."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1202",
+      "prompt": "Your bag is inside the car. How do you say this?",
+      "correctAnswer": "Bag car mein hai",
+      "distractors": ["Bag car par hai", "Bag car se hai", "Bag car ko hai"],
+      "hint": "'Mein' = inside/in"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1207",
+      "hindi": "Ke baad",
+      "english": "After",
+      "spanish": "Después de",
+      "note": "'Khaane ke baad' = after eating. 'Kaam ke baad milte hain' = let's meet after work. 'Baad mein' = later. Very common in time expressions. 'Is ke baad' = after this. 'Ghar jaane ke baad' = after going home."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1208",
+      "hindi": "Ke pehle",
+      "english": "Before",
+      "spanish": "Antes de",
+      "note": "'Khaane ke pehle' = before eating. 'Jaane ke pehle mujhe bata' = tell me before you go. 'Pehle' alone = first/before (as adverb). 'Pehle aao, phir baat karte hain' = come first, then we'll talk."
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-1201",
+      "instruction": "Match the postposition to its meaning",
+      "pairs": [
+        { "hindi": "Mein", "english": "In / Inside" },
+        { "hindi": "Par", "english": "On / At" },
+        { "hindi": "Se", "english": "From / By" },
+        { "hindi": "Ke baad", "english": "After" }
+      ]
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1202",
+      "sentence": "Main apni saheli _____ saath mall gayi.",
+      "sentenceEnglish": "I went to the mall with my friend.",
+      "answer": "ke",
+      "hint": "'Ke saath' = with someone",
+      "acceptedAlternatives": ["ke", "Ke"]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1203",
+      "prompt": "How do you say 'This is Priya's phone'? (Phone is masculine)",
+      "correctAnswer": "Yeh Priya ka phone hai",
+      "distractors": ["Yeh Priya ki phone hai", "Yeh Priya ke phone hai", "Yeh Priya se phone hai"],
+      "hint": "Phone is masculine → use 'ka'"
+    }
+  ]
+}

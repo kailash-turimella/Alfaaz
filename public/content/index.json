@@ -1,0 +1,164 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-01-basic-words",
+      "title": "Basic Words",
+      "subtitle": "The 30 words you'll use every single day",
+      "icon": "🔤",
+      "category": "foundations",
+      "xpReward": 20,
+      "set": 1,
+      "unlocks": ["lesson-02-phrases"]
+    },
+    {
+      "id": "lesson-02-phrases",
+      "title": "Essential Phrases",
+      "subtitle": "Full phrases that slot into any conversation",
+      "icon": "💬",
+      "category": "foundations",
+      "xpReward": 25,
+      "set": 1,
+      "unlocks": ["lesson-03-greetings"]
+    },
+    {
+      "id": "lesson-03-greetings",
+      "title": "Greetings & Openers",
+      "subtitle": "How Delhi people actually say hello",
+      "icon": "👋",
+      "category": "social",
+      "xpReward": 25,
+      "set": 1,
+      "unlocks": ["lesson-04-fillers"]
+    },
+    {
+      "id": "lesson-04-fillers",
+      "title": "Filler Words",
+      "subtitle": "Matlab, yaar, arre — the glue of real Hindi",
+      "icon": "🗣️",
+      "category": "social",
+      "xpReward": 30,
+      "set": 1,
+      "unlocks": ["lesson-05-emotions"]
+    },
+    {
+      "id": "lesson-05-emotions",
+      "title": "Feelings & Emotions",
+      "subtitle": "Express yourself naturally",
+      "icon": "❤️",
+      "category": "expression",
+      "xpReward": 30,
+      "set": 1,
+      "unlocks": ["lesson-06-numbers"]
+    },
+    {
+      "id": "lesson-06-numbers",
+      "title": "Numbers & Money",
+      "subtitle": "Counting, prices, bargaining",
+      "icon": "🔢",
+      "category": "practical",
+      "xpReward": 20,
+      "set": 1,
+      "unlocks": ["lesson-07-situations"]
+    },
+    {
+      "id": "lesson-07-situations",
+      "title": "Everyday Situations",
+      "subtitle": "Food, transport, shopping",
+      "icon": "🛍️",
+      "category": "practical",
+      "xpReward": 35,
+      "set": 1,
+      "unlocks": ["lesson-08-conversations"]
+    },
+    {
+      "id": "lesson-08-conversations",
+      "title": "Full Conversations",
+      "subtitle": "Put it all together",
+      "icon": "🎭",
+      "category": "advanced",
+      "xpReward": 50,
+      "set": 1,
+      "unlocks": []
+    },
+    {
+      "id": "lesson-09-present-tense",
+      "title": "Present Tense",
+      "subtitle": "Hoon, hai, hain — and the continuous form",
+      "icon": "🟢",
+      "category": "grammar",
+      "xpReward": 30,
+      "set": 2,
+      "unlocks": ["lesson-10-past-tense"]
+    },
+    {
+      "id": "lesson-10-past-tense",
+      "title": "Past Tense",
+      "subtitle": "How to talk about what happened",
+      "icon": "⏮️",
+      "category": "grammar",
+      "xpReward": 35,
+      "set": 2,
+      "unlocks": ["lesson-11-future-tense"]
+    },
+    {
+      "id": "lesson-11-future-tense",
+      "title": "Future Tense",
+      "subtitle": "Plans, promises, and predictions",
+      "icon": "⏭️",
+      "category": "grammar",
+      "xpReward": 35,
+      "set": 2,
+      "unlocks": ["lesson-12-postpositions"]
+    },
+    {
+      "id": "lesson-12-postpositions",
+      "title": "Postpositions",
+      "subtitle": "Mein, par, ko, se — connecting words to meaning",
+      "icon": "🔗",
+      "category": "grammar",
+      "xpReward": 30,
+      "set": 2,
+      "unlocks": ["lesson-13-possession"]
+    },
+    {
+      "id": "lesson-13-possession",
+      "title": "Possession",
+      "subtitle": "Mera, tera, uska — who owns what",
+      "icon": "🏠",
+      "category": "grammar",
+      "xpReward": 30,
+      "set": 2,
+      "unlocks": ["lesson-14-commands"]
+    },
+    {
+      "id": "lesson-14-commands",
+      "title": "Commands & Requests",
+      "subtitle": "Ask, tell, and request the Delhi way",
+      "icon": "👆",
+      "category": "grammar",
+      "xpReward": 30,
+      "set": 2,
+      "unlocks": ["lesson-15-questions"]
+    },
+    {
+      "id": "lesson-15-questions",
+      "title": "Question Words",
+      "subtitle": "Kya, kab, kahan, kaise — ask anything",
+      "icon": "❓",
+      "category": "grammar",
+      "xpReward": 30,
+      "set": 2,
+      "unlocks": ["lesson-16-connecting-sentences"]
+    },
+    {
+      "id": "lesson-16-connecting-sentences",
+      "title": "Connecting Sentences",
+      "subtitle": "Aur, lekin, kyunki — build complex ideas",
+      "icon": "🧩",
+      "category": "grammar",
+      "xpReward": 40,
+      "set": 2,
+      "unlocks": []
+    }
+  ]
+}

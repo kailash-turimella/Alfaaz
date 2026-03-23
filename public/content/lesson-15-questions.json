@@ -1,0 +1,127 @@
+{
+  "id": "lesson-15-questions",
+  "title": "Question Words",
+  "icon": "❓",
+  "xpReward": 30,
+  "description": "Ask anything — kya, kab, kahan, kaise, kyun, kaun, kitna.",
+  "culturalNote": "In Delhi Hindi, question words often go BEFORE the verb but AFTER the subject — 'tum kahan ja rahi ho?' (you where are you going?). But in rapid casual speech, word order is flexible. The tone also helps — rising intonation turns any statement into a yes/no question without adding 'kya'.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-1501",
+      "hindi": "Kya",
+      "english": "What / (yes-no question marker)",
+      "spanish": "Qué / ¿...? (marcador de pregunta)",
+      "note": "'Kya' has two jobs: 1) 'What?' — 'kya hua?' = what happened? 'kya chahiye?' = what do you want? 2) Yes/no question marker at start of sentence: 'Kya tum aaogi?' = will you come? In fast Delhi speech, 'kya' at end also works: 'Tum aaogi kya?'"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1502",
+      "hindi": "Kab",
+      "english": "When",
+      "spanish": "Cuándo",
+      "note": "'Kab' = when. 'Kab aauungi tum?' = when will you come? 'Kab se?' = since when? 'Kab tak?' = until when? / how long? 'Kab hua yeh?' = when did this happen? 'Tab se kab tak?' = from then until when? A very versatile question word."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1503",
+      "hindi": "Kahan",
+      "english": "Where",
+      "spanish": "Dónde",
+      "note": "'Kahan' = where. 'Kahan ja rahi ho?' = where are you going? 'Kahan hai woh?' = where is she? 'Kahan se?' = from where? 'Kahan tak?' = up to where? / how far? In Delhi: 'Kahan ka hoon?' = where are you from? (common opener)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1501",
+      "prompt": "You want to ask 'What happened?' after hearing bad news. What do you say?",
+      "correctAnswer": "Kya hua?",
+      "distractors": ["Kab hua?", "Kahan hua?", "Kaun hua?"],
+      "hint": "'Kya' = what"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1504",
+      "hindi": "Kaise",
+      "english": "How",
+      "spanish": "Cómo",
+      "note": "'Kaise' = how. 'Kaise ho?' = how are you? 'Kaise kiya?' = how did you do it? 'Yeh kaise possible hai?' = how is this possible? 'Kaise chalega?' = how will this work? Also used to express disbelief: 'Yeh kaise ho sakta hai?' = how can this be?"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1505",
+      "hindi": "Kyun",
+      "english": "Why",
+      "spanish": "Por qué",
+      "note": "'Kyun' = why. 'Kyun aayi nahi?' = why didn't you come? 'Kyun nahi?' = why not? (agreement or disbelief). 'Toh kyun?' = so why? 'Kyun bhai?' = why man? 'Kyun' at the end sounds more casual: 'Aayi nahi kyun?' = why didn't you come?"
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1501",
+      "sentence": "_____ ja rahi ho? Office ya mall?",
+      "sentenceEnglish": "Where are you going? Office or mall?",
+      "answer": "Kahan",
+      "hint": "'Where' question word",
+      "acceptedAlternatives": ["Kahan", "kahan"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1506",
+      "hindi": "Kaun",
+      "english": "Who",
+      "spanish": "Quién",
+      "note": "'Kaun' = who. 'Yeh kaun hai?' = who is this? 'Kaun aayi?' = who came? 'Kaun sa?' = which one? 'Kaun sa day?' = which day? Note: 'Kaun' vs 'Kaun sa' — 'kaun' = who (person), 'kaun sa' = which (choosing one). Both very common."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1507",
+      "hindi": "Kitna / Kitni",
+      "english": "How much / How many",
+      "spanish": "Cuánto / Cuánta",
+      "note": "'Kitna' (m): 'kitna time hai?' = how much time is there? 'Yeh kitna hai?' = how much is this? 'Kitni' (f): 'kitni door hai?' = how far is it? 'Kitni baar?' = how many times? 'Kitne' (pl): 'kitne log?' = how many people? Essential for shopping and directions."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1502",
+      "prompt": "You want to ask a shopkeeper 'How much is this?' What do you say?",
+      "correctAnswer": "Yeh kitna hai?",
+      "distractors": ["Yeh kya hai?", "Yeh kaise hai?", "Yeh kitni hai?"],
+      "hint": "'Kitna' = how much (for price/quantity)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1508",
+      "hindi": "Kaisa / Kaisi",
+      "english": "How / What kind of (about a thing)",
+      "spanish": "Cómo es / Qué tal",
+      "note": "'Kaisa' (m): 'khana kaisa tha?' = how was the food? 'Kaisi' (f): 'movie kaisi thi?' = how was the movie? 'Tum kaisi ho?' = how are you? (to a woman). 'Yeh idea kaisa hai?' = how's this idea? Different from 'kaise' (how, for actions) — 'kaisa/kaisi' describes quality."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1502",
+      "sentence": "Tum party mein aayi nahi, _____?",
+      "sentenceEnglish": "You didn't come to the party, why?",
+      "answer": "kyun",
+      "hint": "'Why' question word",
+      "acceptedAlternatives": ["kyun", "Kyun"]
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-1501",
+      "instruction": "Match the question word to its English",
+      "pairs": [
+        { "hindi": "Kab", "english": "When" },
+        { "hindi": "Kahan", "english": "Where" },
+        { "hindi": "Kaun", "english": "Who" },
+        { "hindi": "Kyun", "english": "Why" }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1503",
+      "prompt": "Your friend asks about a movie you watched. She asks how it was. What does she say?",
+      "correctAnswer": "Movie kaisi thi?",
+      "distractors": ["Movie kaise thi?", "Movie kya thi?", "Movie kitni thi?"],
+      "hint": "'Movie' is feminine → kaisi (how was it — describing quality)"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "lesson-03-greetings",
+  "title": "Greetings & Openers",
+  "icon": "👋",
+  "xpReward": 25,
+  "description": "How Delhi people actually say hello — on the phone, in person, and in text.",
+  "culturalNote": "Forget 'Namaste' for everyday use. Real Delhiites answer calls with 'Haan bata' and greet friends with 'Bol na' or 'Kya chal raha hai?' — not the formal greetings you'd find in a textbook. Namaste is reserved for elders, formal settings, and temples.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-301",
+      "hindi": "Haan bata",
+      "english": "Yeah, tell me / Go ahead",
+      "spanish": "Sí, dime",
+      "note": "The default phone greeting in Delhi among friends. 'Bata' = tell me. When a friend calls and you pick up, 'Haan bata' = go ahead, I'm listening. Warm and casual."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-302",
+      "hindi": "Bol na",
+      "english": "Tell me / Speak up / Go on",
+      "spanish": "Dime / Habla",
+      "note": "'Bol' = speak/tell (imperative). 'Na' softens it. 'Bol na yaar' = come on, tell me. Used when someone is hesitating, or as a casual 'go ahead' on the phone. Very common."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-301",
+      "prompt": "Your friend calls and you pick up. What's the most natural Delhi thing to say?",
+      "correctAnswer": "Haan bata",
+      "distractors": ["Namaste", "Hello, kaun bol raha hai?", "Shubh prabhat"],
+      "hint": "The casual, real way friends answer each other's calls"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-303",
+      "hindi": "Kya haal hai?",
+      "english": "How are you? / How's it going?",
+      "spanish": "¿Cómo estás? / ¿Qué tal?",
+      "note": "More personal than 'kaise ho'. 'Haal' = state/condition. You'd ask 'kya haal hai?' when you haven't seen someone in a while and genuinely want to know."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-304",
+      "hindi": "Sab theek?",
+      "english": "Everything okay? / All good?",
+      "spanish": "¿Todo bien?",
+      "note": "Quick check-in. Can be concerned ('sab theek?' when someone looks off) or casual (as a general greeting). Short, warm, versatile."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-305",
+      "hindi": "Haan mast",
+      "english": "Yeah, great / All good, amazing",
+      "spanish": "Sí, genial / Todo de lujo",
+      "note": "'Mast' = awesome / great / high. 'Haan mast' = yeah everything's awesome. Also just 'Mast!' alone works as 'great!' 'Sab mast hai' = everything's great."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-306",
+      "hindi": "Bas theek hoon",
+      "english": "I'm just okay / Getting by",
+      "spanish": "Más o menos / Ahí voy",
+      "note": "'Bas theek hoon' signals you're okay but not great — not lying, not complaining. It's the honest middle ground. Friends will often follow up with 'kya hua?' (what happened?)"
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-302",
+      "prompt": "Friend asks 'Kya haal hai?' and you're doing really well. What do you say?",
+      "correctAnswer": "Haan mast, sab theek",
+      "distractors": ["Bas theek hoon", "Pata nahi", "Bahut bura"],
+      "hint": "The enthusiastic, positive response"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-307",
+      "hindi": "Kya chal raha hai?",
+      "english": "What's going on? / What's up?",
+      "spanish": "¿Qué pasa? / ¿Qué hay?",
+      "note": "'Chal raha hai' = is happening/going on (masculine). The feminine equivalent would be 'chal rahi hai'. Used as a greeting or genuinely asking what someone is up to."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-308",
+      "hindi": "Bahut dino baad",
+      "english": "After such a long time / Long time no see",
+      "spanish": "Hace mucho tiempo / Cuánto tiempo",
+      "note": "Say this when you run into someone you haven't seen in a while. 'Din' = day, 'bahut dino baad' = after many days. Often followed by 'Kya haal hai?' or 'Kahan tha/thi tu?'"
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-301",
+      "sentence": "Arre yaar, _____ mili! Kya haal hai?",
+      "sentenceEnglish": "Oh man, _____ we've met! How are you?",
+      "answer": "bahut dino baad",
+      "hint": "Long time no see",
+      "acceptedAlternatives": ["bahut dino baad", "Bahut dino baad"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-309",
+      "hindi": "Kahan tha / Kahan thi?",
+      "english": "Where were you? (masc / fem)",
+      "spanish": "¿Dónde estabas?",
+      "note": "'Kahan tha?' for a man. 'Kahan thi?' for a woman — the -a/-i ending changes with gender. 'Tu kahan thi?' = where were you? (informal, close friend)"
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-303",
+      "prompt": "You're asking your female friend where she was (you haven't seen her). Which form do you use?",
+      "correctAnswer": "Kahan thi?",
+      "distractors": ["Kahan tha?", "Kahan hai?", "Kahan hoga?"],
+      "hint": "Past tense, feminine — ends in -i"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-310",
+      "hindi": "Namaste",
+      "english": "Hello / Greetings (formal / elders)",
+      "spanish": "Buenos días / Saludos (formal)",
+      "note": "Use with elders, strangers, formal contexts, or anyone you want to be respectful with. NOT what you'd say to a friend — that would feel weirdly formal. Often paired with hands folded (anjali mudra)."
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-301",
+      "instruction": "Match the greeting to when you'd use it",
+      "pairs": [
+        { "hindi": "Haan bata", "english": "Picking up a friend's call" },
+        { "hindi": "Namaste", "english": "Greeting an elder" },
+        { "hindi": "Bahut dino baad", "english": "Long time no see" },
+        { "hindi": "Kya chal raha hai?", "english": "What's going on?" }
+      ]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-311",
+      "hindi": "Chal, bye!",
+      "english": "Okay, bye! / Alright, talk later!",
+      "spanish": "Bueno, ¡adiós! / Nos vemos",
+      "note": "THE classic Delhi sign-off. 'Chal, bye!' ends nearly every phone call and in-person goodbye. You can add 'yaar': 'Chal yaar, bye!' = Alright man, bye! Simple, warm, universal."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-312",
+      "hindi": "Phir milenge",
+      "english": "We'll meet again / See you later",
+      "spanish": "Nos veremos / Hasta luego",
+      "note": "'Milenge' = we will meet. Used as a warm goodbye when you don't know exactly when you'll see someone. More heartfelt than just 'chal bye'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-304",
+      "prompt": "You're ending a call with a close friend in the most natural Delhi way. What do you say?",
+      "correctAnswer": "Chal, bye!",
+      "distractors": ["Namaste!", "Alvida!", "Theek hai tata"],
+      "hint": "The classic Delhi call sign-off"
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-302",
+      "sentence": "Haan, chal _____ yaar, bye!",
+      "sentenceEnglish": "Yeah, alright _____ man, bye!",
+      "answer": "phir milenge",
+      "hint": "We'll meet again",
+      "acceptedAlternatives": ["phir milenge", "Phir milenge"]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "lesson-16-connecting-sentences",
+  "title": "Connecting Sentences",
+  "icon": "🧩",
+  "xpReward": 40,
+  "description": "Build complex sentences with aur, lekin, kyunki, toh, phir — and sound truly fluent.",
+  "culturalNote": "Delhi Hindi uses connectors constantly and quickly — you'll hear 'toh phir' (so then), 'aur kya' (and what else), 'lekin yaar' (but man) in rapid succession. These small words are the skeleton of natural conversation. Master them and your sentences stop sounding like translated English.",
+  "exercises": [
+    {
+      "type": "flashcard",
+      "id": "fc-1601",
+      "hindi": "Aur",
+      "english": "And / Also",
+      "spanish": "Y / También",
+      "note": "'Aur' = and. 'Main aur tum' = me and you. 'Aur kya?' = and what else? / what else? 'Aur batao' = tell me more. 'Aur nahi chahiye' = I don't want any more. 'Kya aur chahiye?' = do you need anything else? Very versatile — also means 'more' in some contexts."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1602",
+      "hindi": "Lekin / Par",
+      "english": "But",
+      "spanish": "Pero",
+      "note": "Both mean 'but'. 'Lekin' is slightly more formal; 'par' is more casual/spoken. 'Main jaungi, lekin der se' = I'll go, but late. 'Bahut acha tha, par thoda mehnga' = it was great, but a bit pricey. In Delhi conversations, 'par' is heard constantly. Often used with 'yaar' for emphasis."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1603",
+      "hindi": "Kyunki",
+      "english": "Because",
+      "spanish": "Porque",
+      "note": "'Kyunki' = because. 'Main nahi aayi kyunki beemar thi' = I didn't come because I was sick. Often the 'kyunki' clause comes at the end. Casual shortcut: 'Main nahi aayi, beemar thi' (drop kyunki). 'Kyunki' gives formal emphasis to the reason."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1601",
+      "prompt": "You want to say 'I like Delhi but it's very hot.' Which connector do you use?",
+      "correctAnswer": "Mujhe Delhi pasand hai par bahut garmi hai",
+      "distractors": ["Mujhe Delhi pasand hai kyunki bahut garmi hai", "Mujhe Delhi pasand hai toh bahut garmi hai", "Mujhe Delhi pasand hai aur bahut garmi hai"],
+      "hint": "'But' = lekin / par"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1604",
+      "hindi": "Toh",
+      "english": "So / Then / Well",
+      "spanish": "Entonces / Pues",
+      "note": "'Toh' = so/then/well. 'Toh kya karte hain?' = so what do we do? 'Toh phir?' = so then? 'Toh theek hai' = okay then/so that's fine. 'Toh bata' = so tell me. 'Toh' is incredibly common — it starts responses, moves conversations forward, and signals conclusions. Learn it."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1605",
+      "hindi": "Phir",
+      "english": "Then / After that / Again",
+      "spanish": "Luego / Después / De nuevo",
+      "note": "'Phir' = then (sequence) or again. 'Pehle khao, phir jaao' = eat first, then go. 'Phir milenge' = we'll meet again. 'Toh phir?' = so then what? 'Phir kya hua?' = then what happened? 'Phir se' = once more/again. One of the most used words in storytelling."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1601",
+      "sentence": "Main aayi _____ tumhara door band tha.",
+      "sentenceEnglish": "I came but your door was closed.",
+      "answer": "lekin",
+      "hint": "'But' connector",
+      "acceptedAlternatives": ["lekin", "Lekin", "par", "Par"]
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1606",
+      "hindi": "Isliye",
+      "english": "That's why / Therefore",
+      "spanish": "Por eso / Por eso mismo",
+      "note": "'Isliye' = that's why/therefore. 'Main thak gayi thi, isliye nahi aayi' = I was tired, that's why I didn't come. 'Isliye toh keh rahi thi' = that's exactly why I was saying. Often responds to an explanation: someone explains, you say 'isliye' to confirm the logical connection."
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1607",
+      "hindi": "Jabki",
+      "english": "While / Whereas / Even though",
+      "spanish": "Mientras / Mientras que / Aunque",
+      "note": "'Jabki' = while/whereas. 'Woh so rahi thi jabki main kaam kar rahi thi' = she was sleeping while I was working. Often used to show contrast: 'Woh khush hai jabki main pareshaan hoon' = she's happy whereas I'm worried. Slightly formal but common in Delhi."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1602",
+      "prompt": "You want to say 'I was tired, so I slept.' Which connector is correct?",
+      "correctAnswer": "Main thak gayi thi, isliye so gayi",
+      "distractors": ["Main thak gayi thi, kyunki so gayi", "Main thak gayi thi, lekin so gayi", "Main thak gayi thi, jabki so gayi"],
+      "hint": "'Isliye' = that's why / so (result)"
+    },
+    {
+      "type": "flashcard",
+      "id": "fc-1608",
+      "hindi": "Agar ... toh",
+      "english": "If ... then",
+      "spanish": "Si ... entonces",
+      "note": "'Agar tum aao toh main bhi aauungi' = if you come then I'll also come. 'Agar' = if, 'toh' = then. 'Agar nahi aana toh bol do' = if you're not coming, just say so. The 'toh' can be dropped in casual speech: 'Agar free ho, aao' = if you're free, come."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "fib-1602",
+      "sentence": "Pehle kaam karo, _____ ghumne jaate hain.",
+      "sentenceEnglish": "Work first, then we'll go out.",
+      "answer": "phir",
+      "hint": "'Then' (sequence) = phir",
+      "acceptedAlternatives": ["phir", "Phir"]
+    },
+    {
+      "type": "match_pairs",
+      "id": "mp-1601",
+      "instruction": "Match the connector to its meaning",
+      "pairs": [
+        { "hindi": "Aur", "english": "And" },
+        { "hindi": "Lekin / Par", "english": "But" },
+        { "hindi": "Kyunki", "english": "Because" },
+        { "hindi": "Isliye", "english": "That's why" }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "id": "mc-1603",
+      "prompt": "Your friend asks why you didn't call. You say 'I didn't call because my phone was dead.' Which sentence is correct?",
+      "correctAnswer": "Main ne call nahi kiya kyunki mera phone dead tha",
+      "distractors": ["Main ne call nahi kiya isliye mera phone dead tha", "Main ne call nahi kiya lekin mera phone dead tha", "Main ne call nahi kiya phir mera phone dead tha"],
+      "hint": "'Because' = kyunki (giving the reason)"
+    }
+  ]
+}
